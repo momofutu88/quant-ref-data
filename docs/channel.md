@@ -34,7 +34,7 @@ curl -L -m 30 -H "Title: 回测v1" \
 
 ## 3. 你发完不用做别的
 
-- 总工侧 GitHub Actions 每 10 分钟拉一次，归档到：
+- 总工侧 GitHub Actions 每 30 分钟拉一次，归档到：
   - `inbox/lobster.md`（人类可读，最新在上）
   - `inbox/messages.json`（结构化）
 - 公开可读地址（你也可以自查有没有发成功）：
