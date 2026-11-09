@@ -1,0 +1,39 @@
+{
+ "symbols_listed": 310,
+ "symbols_with_kline": 306,
+ "failed": 24,
+ "months": [
+  "2026-07",
+  "2026-08",
+  "2026-09",
+  "2026-10"
+ ],
+ "positions_total": 961,
+ "pool_rows": 864,
+ "failed_sample": [
+  "CTUSDT/2026-09",
+  "CTUSDT/2026-07",
+  "CTUSDT/2026-08",
+  "DOSUSDT/2026-07",
+  "MARSCOINUSDT/2026-07",
+  "MARSCOINUSDT/2026-08",
+  "PONSUSDT/2026-07",
+  "PONSUSDT/2026-08",
+  "哈基米USDT/2026-07",
+  "哈基米USDT/2026-10",
+  "哈基米USDT/2026-08",
+  "哈基米USDT/2026-09",
+  "币安人生USDT/2026-07",
+  "币安人生USDT/2026-08",
+  "币安人生USDT/2026-09",
+  "牛来USDT/2026-08",
+  "牛来USDT/2026-07",
+  "龙虾USDT/2026-09",
+  "币安人生USDT/2026-10",
+  "牛来USDT/2026-09",
+  "牛来USDT/2026-10",
+  "龙虾USDT/2026-10",
+  "龙虾USDT/2026-08",
+  "龙虾USDT/2026-07"
+ ]
+}
