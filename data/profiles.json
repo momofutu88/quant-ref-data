@@ -1,0 +1,674 @@
+{
+ "4532994172262753536": {
+  "file": "positions_4532994172262753536.csv",
+  "n": 70,
+  "total_pnl": 41539.78,
+  "win_rate": 91.4,
+  "avg_win": 857.02,
+  "avg_loss": -2218.24,
+  "profit_factor": 4.12,
+  "short_pct": 38.6,
+  "median_ret_pct": 1.24,
+  "median_win_ret": 1.23,
+  "median_loss_ret": 2.26,
+  "median_dur_h": 21.0,
+  "median_lev": 2.0,
+  "peak_concurrency": 17,
+  "median_concurrency": 10.5,
+  "n_symbols": 19,
+  "over_120h": 16,
+  "top_minute": [
+   "31",
+   5
+  ],
+  "monthly": {
+   "2026-04": 4727.8,
+   "2026-05": 1203.3,
+   "2026-06": 2309.9,
+   "2026-07": 22564.0,
+   "2026-08": 6887.5,
+   "2026-09": 2181.9,
+   "2026-10": 1665.5
+  },
+  "top_symbols": [
+   [
+    "SNDKUSDT",
+    12
+   ],
+   [
+    "MUUSDT",
+    10
+   ],
+   [
+    "ETHUSDT",
+    9
+   ],
+   [
+    "BTCUSDT",
+    6
+   ],
+   [
+    "SPCXUSDT",
+    6
+   ],
+   [
+    "CLUSDT",
+    4
+   ],
+   [
+    "INTCUSDT",
+    3
+   ],
+   [
+    "SOLUSDT",
+    3
+   ],
+   [
+    "NVDAUSDT",
+    3
+   ],
+   [
+    "SKHYUSDT",
+    3
+   ]
+  ],
+  "top_win": [
+   {
+    "sym": "SKHYUSDT",
+    "pnl": 10476.9,
+    "ret": 5.101,
+    "dur": 0.0
+   },
+   {
+    "sym": "ETHUSDT",
+    "pnl": 10270.5,
+    "ret": 10.683,
+    "dur": 1333.82
+   },
+   {
+    "sym": "INTCUSDT",
+    "pnl": 4727.8,
+    "ret": 22.394,
+    "dur": 2186.06
+   },
+   {
+    "sym": "BTCUSDT",
+    "pnl": 4576.5,
+    "ret": 8.852,
+    "dur": 0.0
+   },
+   {
+    "sym": "SNDKUSDT",
+    "pnl": 3495.4,
+    "ret": 16.388,
+    "dur": 139.3
+   }
+  ],
+  "top_loss": [
+   {
+    "sym": "BTCUSDT",
+    "pnl": -9215.7,
+    "ret": -3.339,
+    "dur": 1845.8
+   },
+   {
+    "sym": "SKHYNIXUSDT",
+    "pnl": -3265.4,
+    "ret": -2.925,
+    "dur": 777.68
+   },
+   {
+    "sym": "MUUSDT",
+    "pnl": -662.6,
+    "ret": -1.591,
+    "dur": 0.08
+   },
+   {
+    "sym": "SPCXUSDT",
+    "pnl": -100.8,
+    "ret": -0.63,
+    "dur": 3.23
+   },
+   {
+    "sym": "UNIUSDT",
+    "pnl": -32.9,
+    "ret": 3.569,
+    "dur": 0.0
+   }
+  ]
+ },
+ "4902752005274121217": {
+  "file": "positions_4902752005274121217.csv",
+  "n": 979,
+  "total_pnl": 34772.45,
+  "win_rate": 48.9,
+  "avg_win": 371.82,
+  "avg_loss": -286.66,
+  "profit_factor": 1.24,
+  "short_pct": 98.2,
+  "median_ret_pct": 11.96,
+  "median_win_ret": 11.94,
+  "median_loss_ret": 12.06,
+  "median_dur_h": 31.6,
+  "median_lev": 3.0,
+  "peak_concurrency": 36,
+  "median_concurrency": 16.0,
+  "n_symbols": 282,
+  "over_120h": 108,
+  "top_minute": [
+   "05",
+   930
+  ],
+  "monthly": {
+   "2026-07": -1218.7,
+   "2026-08": 9298.2,
+   "2026-09": 6161.1,
+   "2026-10": 12493.2,
+   "2026-11": 8038.7
+  },
+  "top_symbols": [
+   [
+    "AKEUSDT",
+    29
+   ],
+   [
+    "BTWUSDT",
+    21
+   ],
+   [
+    "USUSDT",
+    19
+   ],
+   [
+    "BTCUSDT",
+    18
+   ],
+   [
+    "龙虾USDT",
+    18
+   ],
+   [
+    "BEATUSDT",
+    17
+   ],
+   [
+    "UAIUSDT",
+    16
+   ],
+   [
+    "MAGMAUSDT",
+    15
+   ],
+   [
+    "BRUSDT",
+    13
+   ],
+   [
+    "牛来USDT",
+    13
+   ]
+  ],
+  "top_win": [
+   {
+    "sym": "BTCUSDT",
+    "pnl": 6830.8,
+    "ret": 22.294,
+    "dur": 167.95
+   },
+   {
+    "sym": "ZEREBROUSDT",
+    "pnl": 3190.6,
+    "ret": 8.189,
+    "dur": 51.42
+   },
+   {
+    "sym": "MINAUSDT",
+    "pnl": 2695.6,
+    "ret": 11.974,
+    "dur": 51.91
+   },
+   {
+    "sym": "STRKUSDT",
+    "pnl": 2622.6,
+    "ret": 9.46,
+    "dur": 119.82
+   },
+   {
+    "sym": "DOODUSDT",
+    "pnl": 2089.4,
+    "ret": 7.94,
+    "dur": 40.11
+   }
+  ],
+  "top_loss": [
+   {
+    "sym": "BTCUSDT",
+    "pnl": -2147.4,
+    "ret": -3.626,
+    "dur": 182.01
+   },
+   {
+    "sym": "QUSDT",
+    "pnl": -1760.9,
+    "ret": -13.012,
+    "dur": 17.13
+   },
+   {
+    "sym": "BTWUSDT",
+    "pnl": -1751.2,
+    "ret": -15.892,
+    "dur": 75.42
+   },
+   {
+    "sym": "IRYSUSDT",
+    "pnl": -1478.6,
+    "ret": -12.002,
+    "dur": 8.12
+   },
+   {
+    "sym": "SIRENUSDT",
+    "pnl": -1446.9,
+    "ret": -11.135,
+    "dur": 120.98
+   }
+  ]
+ },
+ "5170016259600335617": {
+  "file": "positions_5170016259600335617.csv",
+  "n": 132,
+  "total_pnl": 16434.31,
+  "win_rate": 97.0,
+  "avg_win": 136.76,
+  "avg_loss": -267.9,
+  "profit_factor": 16.34,
+  "short_pct": 60.6,
+  "median_ret_pct": 0.9,
+  "median_win_ret": 0.86,
+  "median_loss_ret": 1.18,
+  "median_dur_h": 3.5,
+  "median_lev": 20.0,
+  "peak_concurrency": 3,
+  "median_concurrency": 1.0,
+  "n_symbols": 9,
+  "over_120h": 0,
+  "top_minute": [
+   "45",
+   5
+  ],
+  "monthly": {
+   "2026-08": 12148.6,
+   "2026-09": 2057.8,
+   "2026-10": 1281.3,
+   "2026-11": 946.6
+  },
+  "top_symbols": [
+   [
+    "ZECUSDT",
+    44
+   ],
+   [
+    "SNDKUSDT",
+    23
+   ],
+   [
+    "ETHUSDT",
+    21
+   ],
+   [
+    "SKHYNIXUSDT",
+    14
+   ],
+   [
+    "BTCUSDT",
+    14
+   ],
+   [
+    "HYPEUSDT",
+    8
+   ],
+   [
+    "CLUSDT",
+    5
+   ],
+   [
+    "SPCXUSDT",
+    2
+   ],
+   [
+    "TRUMPUSDT",
+    1
+   ]
+  ],
+  "top_win": [
+   {
+    "sym": "SNDKUSDT",
+    "pnl": 5115.5,
+    "ret": 4.16,
+    "dur": 108.16
+   },
+   {
+    "sym": "SNDKUSDT",
+    "pnl": 4120.3,
+    "ret": 8.954,
+    "dur": 34.57
+   },
+   {
+    "sym": "SNDKUSDT",
+    "pnl": 811.9,
+    "ret": 4.91,
+    "dur": 0.02
+   },
+   {
+    "sym": "SNDKUSDT",
+    "pnl": 672.6,
+    "ret": 2.304,
+    "dur": 9.77
+   },
+   {
+    "sym": "SKHYNIXUSDT",
+    "pnl": 419.2,
+    "ret": 0.66,
+    "dur": 7.24
+   }
+  ],
+  "top_loss": [
+   {
+    "sym": "SPCXUSDT",
+    "pnl": -913.1,
+    "ret": -3.096,
+    "dur": 69.01
+   },
+   {
+    "sym": "ETHUSDT",
+    "pnl": -106.6,
+    "ret": -1.176,
+    "dur": 47.47
+   },
+   {
+    "sym": "SPCXUSDT",
+    "pnl": -51.8,
+    "ret": -1.095,
+    "dur": 1.36
+   },
+   {
+    "sym": "ETHUSDT",
+    "pnl": -0.1,
+    "ret": 0.088,
+    "dur": 3.64
+   },
+   {
+    "sym": "ZECUSDT",
+    "pnl": 0.0,
+    "ret": 0.117,
+    "dur": 1.5
+   }
+  ]
+ },
+ "5236187913165742336": {
+  "file": "positions_5236187913165742336.csv",
+  "n": 126,
+  "total_pnl": 32372.75,
+  "win_rate": 90.5,
+  "avg_win": 326.32,
+  "avg_loss": -402.36,
+  "profit_factor": 7.7,
+  "short_pct": 51.6,
+  "median_ret_pct": 1.35,
+  "median_win_ret": 1.33,
+  "median_loss_ret": 4.27,
+  "median_dur_h": 10.5,
+  "median_lev": 15.0,
+  "peak_concurrency": 11,
+  "median_concurrency": 5.0,
+  "n_symbols": 15,
+  "over_120h": 5,
+  "top_minute": [
+   "00",
+   41
+  ],
+  "monthly": {
+   "2026-09": 8824.9,
+   "2026-10": 15992.8,
+   "2026-11": 7555.1
+  },
+  "top_symbols": [
+   [
+    "SNDKUSDT",
+    18
+   ],
+   [
+    "BCHUSDT",
+    17
+   ],
+   [
+    "XMRUSDT",
+    16
+   ],
+   [
+    "ZECUSDT",
+    15
+   ],
+   [
+    "ETHUSDT",
+    12
+   ],
+   [
+    "LTCUSDT",
+    11
+   ],
+   [
+    "XRPUSDT",
+    7
+   ],
+   [
+    "SOLUSDT",
+    6
+   ],
+   [
+    "BNBUSDT",
+    6
+   ],
+   [
+    "DOGEUSDT",
+    5
+   ]
+  ],
+  "top_win": [
+   {
+    "sym": "ETHUSDT",
+    "pnl": 8682.3,
+    "ret": 3.074,
+    "dur": 120.25
+   },
+   {
+    "sym": "SNDKUSDT",
+    "pnl": 4383.7,
+    "ret": 2.517,
+    "dur": 24.79
+   },
+   {
+    "sym": "ZECUSDT",
+    "pnl": 2884.3,
+    "ret": 9.001,
+    "dur": 44.05
+   },
+   {
+    "sym": "ZECUSDT",
+    "pnl": 2814.1,
+    "ret": 3.329,
+    "dur": 26.27
+   },
+   {
+    "sym": "ZECUSDT",
+    "pnl": 2359.9,
+    "ret": 5.302,
+    "dur": 8.56
+   }
+  ],
+  "top_loss": [
+   {
+    "sym": "ZECUSDT",
+    "pnl": -4690.8,
+    "ret": -6.056,
+    "dur": 52.9
+   },
+   {
+    "sym": "SNDKUSDT",
+    "pnl": -41.4,
+    "ret": -14.152,
+    "dur": 26.52
+   },
+   {
+    "sym": "BNBUSDT",
+    "pnl": -23.2,
+    "ret": -7.72,
+    "dur": 43.54
+   },
+   {
+    "sym": "XRPUSDT",
+    "pnl": -21.4,
+    "ret": -6.99,
+    "dur": 43.54
+   },
+   {
+    "sym": "DOGEUSDT",
+    "pnl": -17.4,
+    "ret": -5.678,
+    "dur": 42.51
+   }
+  ]
+ },
+ "5263968339740503553": {
+  "file": "positions_5263968339740503553.csv",
+  "n": 181,
+  "total_pnl": 12304.35,
+  "win_rate": 93.4,
+  "avg_win": 76.89,
+  "avg_loss": -57.44,
+  "profit_factor": 18.85,
+  "short_pct": 52.5,
+  "median_ret_pct": 0.39,
+  "median_win_ret": 0.37,
+  "median_loss_ret": 1.51,
+  "median_dur_h": 1.0,
+  "median_lev": 20.0,
+  "peak_concurrency": 7,
+  "median_concurrency": 2,
+  "n_symbols": 17,
+  "over_120h": 0,
+  "top_minute": [
+   "34",
+   6
+  ],
+  "monthly": {
+   "2026-10": 8259.4,
+   "2026-11": 4044.9
+  },
+  "top_symbols": [
+   [
+    "BTCUSDT",
+    58
+   ],
+   [
+    "MUUSDT",
+    30
+   ],
+   [
+    "AAPLUSDT",
+    19
+   ],
+   [
+    "ETHUSDT",
+    17
+   ],
+   [
+    "SOXLUSDT",
+    13
+   ],
+   [
+    "ZECUSDT",
+    10
+   ],
+   [
+    "SNDKUSDT",
+    10
+   ],
+   [
+    "INTCUSDT",
+    8
+   ],
+   [
+    "KORUUSDT",
+    6
+   ],
+   [
+    "CLUSDT",
+    2
+   ]
+  ],
+  "top_win": [
+   {
+    "sym": "MUUSDT",
+    "pnl": 1374.2,
+    "ret": 2.394,
+    "dur": 54.2
+   },
+   {
+    "sym": "BTCUSDT",
+    "pnl": 1316.8,
+    "ret": 1.094,
+    "dur": 58.71
+   },
+   {
+    "sym": "BTCUSDT",
+    "pnl": 1176.3,
+    "ret": 2.898,
+    "dur": 25.62
+   },
+   {
+    "sym": "BTCUSDT",
+    "pnl": 715.5,
+    "ret": 1.459,
+    "dur": 26.62
+   },
+   {
+    "sym": "MUUSDT",
+    "pnl": 586.3,
+    "ret": 2.138,
+    "dur": 60.76
+   }
+  ],
+  "top_loss": [
+   {
+    "sym": "MUUSDT",
+    "pnl": -154.2,
+    "ret": -2.209,
+    "dur": 0.53
+   },
+   {
+    "sym": "MUUSDT",
+    "pnl": -89.4,
+    "ret": -0.963,
+    "dur": 0.89
+   },
+   {
+    "sym": "BZUSDT",
+    "pnl": -85.5,
+    "ret": -2.591,
+    "dur": 7.87
+   },
+   {
+    "sym": "SNDKUSDT",
+    "pnl": -84.8,
+    "ret": -1.834,
+    "dur": 2.1
+   },
+   {
+    "sym": "BTCUSDT",
+    "pnl": -57.1,
+    "ret": -0.02,
+    "dur": 52.3
+   }
+  ]
+ }
+}
