@@ -76,5 +76,47 @@
   "time": 1794273578,
   "title": "D07 relaxed optimum",
   "message": "【总工 D07 | 卸掉15%红线后的答案】\n1) 1000万u确认是美股代币策略：401/457笔（88%）、利润65227/73773U（88.4%），79个标的，重仓半导体（DELL 11491U、LITE、SNDK、MU、NBIS、AMD）。他的alpha是美股半导体动量的7x24表达，不是币圈策略。\n2) TDS最优=exp2.5+单笔0.5+不设止损：+54.4%，含浮亏回撤-73.5%，Calmar 0.74。止损容忍度：25%→-18.3%，40%→+22.8%，50%→+28.2%，不设→+51.4%。它的收益全寄生在不止损上，你们-40%账户档是唯一可行妥协（代价51%→23%）。\n3) 融合最优（去掉止损后）：TDS 40%/1.5x + mil 2.0x = +79.2%，回撤-13.9%，Calmar 5.70——优于任何单源档。TDS侧贡献+369U，mil +1215U。\n4) 但TDS单源永远被支配：mil 2.5x单源 +113.9%/-25.8%，收益翻倍回撤三分之一。TDS只能当配角30~40%，用来平滑曲线，不负责赚钱。\n5) 修正D06：之前说TDS不能进组合的前提是25%止损；卸掉后TDS侧转正，结论改为「只能当配角」。\n风险：全部数字来自美股半导体牛市单一行情；2.5x敞口=2000U撬5000U名义，负杠杆状态；执行价差未验证。\n文档：docs/D07_卸掉红线后的最优解.md"
+ },
+ {
+  "id": "1oihriJWJurh",
+  "time": 1794275873,
+  "title": "D08 signal availability",
+  "message": "【总工 D08 | 信号可得性决定执行路径】\n用户现状：TDS 影子号实时跟单已跑通；1000万u 无信号源。\n实测：若靠公开接口轮询 mil（延迟≥1h K线），入场基准漂移中位 +1.36%、P90 +5.93%、57%的笔>1%——他单笔edge才1~2个点，直接吃穿。延迟1h模拟收益从 +2279U 变 -1489U。轮询路线判死刑。\n解锁方案：迷你跟单号做探头（跟单金额设最低10U，只读API读其持仓=秒级信号流），主账户按比例缩放+风控层执行。探头号当耗材，10%分成忽略不计。与拉黑不矛盾：拉黑的是让它管真金白银。\n分阶段：TDS腿(已有信号)保持现状 → 开mil探头 → paper两周测成交偏离(达标线中位<0.3%) → A档2000U实盘 → 达标后再议B档。\n在探头落地前，A/B档都只是纸面数字，唯一可实盘的是TDS单腿（风险调整后最差，用户以-40%账户档自行承担）。"
+ },
+ {
+  "id": "Gi5MfHrAWNIQ",
+  "time": 1794278194,
+  "title": "MIL OPEN SNDKUSDT Long",
+  "message": "SNDKUSDT Long 开于10-30 05:24 检出延迟16151.7分钟 entry=1022.99069597 qty=100.0 lev=20"
+ },
+ {
+  "id": "fhruS3tqYywl",
+  "time": 1794278195,
+  "title": "MIL OPEN SOXLUSDT Long",
+  "message": "SOXLUSDT Long 开于11-04 23:24 检出延迟7871.7分钟 entry=59.85043478 qty=460.0 lev=20"
+ },
+ {
+  "id": "AfHetPCjvp9S",
+  "time": 1794278195,
+  "title": "MIL OPEN STXXUSDT Long",
+  "message": "STXXUSDT Long 开于11-04 22:02 检出延迟7953.9分钟 entry=533.35625 qty=80.0 lev=20"
+ },
+ {
+  "id": "fTj4I8vDOmDh",
+  "time": 1794278195,
+  "title": "MIL OPEN DELLUSDT Long",
+  "message": "DELLUSDT Long 开于11-04 21:20 检出延迟7995.6分钟 entry=349.83 qty=80.0 lev=20"
+ },
+ {
+  "id": "KEZo9PUTe8Jb",
+  "time": 1794278195,
+  "title": "MIL OPEN WDCUSDT Long",
+  "message": "WDCUSDT Long 开于11-04 23:31 检出延迟7865.0分钟 entry=292.33666667 qty=90.0 lev=20"
+ },
+ {
+  "id": "lrWDU25DAJWO",
+  "time": 1794278195,
+  "title": "MIL OPEN MUUSDT Long",
+  "message": "MUUSDT Long 开于11-02 07:02 检出延迟11734.1分钟 entry=804.6825 qty=111.0 lev=20"
  }
 ]
