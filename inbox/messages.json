@@ -184,5 +184,35 @@
   "time": 1794408729,
   "title": "VPS 已上线",
   "message": "新加坡节点部署完成：引擎 dry 常驻，10 秒轮询，币安 fapi 直连 100ms"
+ },
+ {
+  "id": "SqHKrWTpU3uJ",
+  "time": 1794416557,
+  "title": "带单池周巡检",
+  "message": "候选 0 个，合格 0 个"
+ },
+ {
+  "id": "YBDaDhhMEhKk",
+  "time": 1794416568,
+  "title": "带单池周巡检",
+  "message": "候选 0 个，合格 0 个"
+ },
+ {
+  "id": "QlWWVBzGr5MT",
+  "time": 1794416580,
+  "title": "带单池周巡检",
+  "message": "候选 28 个，合格 1 个\n· CryptoVision12  收益+21.3% 夏普3.71 10-20x 名额26/200"
+ },
+ {
+  "id": "M1VUrJ8dNqUR",
+  "time": 1794416918,
+  "title": "带单池周巡检",
+  "message": "候选 28｜合格 7｜跟单者亏损 8\n· CryptoVision12 人均+111U 夏普3.71 10-20x\n· RocketTrader 人均+103U 夏普3.62 10-20x\n· 爽翻天 人均+79U 夏普3.49 10-20x"
+ },
+ {
+  "id": "jzw6uvCHvwKC",
+  "time": 1794418742,
+  "title": "MIL OPEN GOOGLUSDT Long",
+  "message": "GOOGLUSDT Long 开于11-10 16:00 检出延迟2018.6分钟 entry=290.431875 qty=160.0 lev=20"
  }
 ]
