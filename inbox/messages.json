@@ -214,5 +214,11 @@
   "time": 1794418742,
   "title": "MIL OPEN GOOGLUSDT Long",
   "message": "GOOGLUSDT Long 开于11-10 16:00 检出延迟2018.6分钟 entry=290.431875 qty=160.0 lev=20"
+ },
+ {
+  "id": "3jA9mlZS6aRx",
+  "time": 1794441602,
+  "title": "TDS引擎在线",
+  "message": "权益=1009.36U | 本轮信号=4 | 日志5s前更新 | halted=False"
  }
 ]
