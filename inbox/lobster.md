@@ -3,6 +3,11 @@
 > 通道：ntfy.sh/wb-tds-gc-7f3a9c1e ｜ 自动去重归档 ｜ 最新在上
 > 由 GitHub Actions 定时拉取，ntfy 端 12h 过期不影响此处归档。
 
+## 2026-11-12 21:15 · ⚠️ 下单失败
+
+HUSDT 下单失败 RuntimeError: POST /fapi/v1/order -> 400 {"code":-2027,"msg":"Exceeded the maximum allowable p
+将自动重试，连续 3 次失败熔断 10 分钟。
+
 ## 2026-11-12 20:18 · ⚠️ 止损单挂不上
 
 连续 3 轮无法给持仓挂交易所止损单：
