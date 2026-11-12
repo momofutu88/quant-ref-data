@@ -460,5 +460,17 @@
   "time": 1794489307,
   "title": "⚠️ 下单失败",
   "message": "HUSDT 下单失败 RuntimeError: POST /fapi/v1/order -> 400 {\"code\":-2027,\"msg\":\"Exceeded the maximum allowable p\n将自动重试，连续 3 次失败熔断 10 分钟。"
+ },
+ {
+  "id": "WlyMmNNThZP2",
+  "time": 1794491524,
+  "title": "🛡️ 仓位被交易所止损单平掉",
+  "message": "检测到 1 笔仓位消失且非引擎主动平仓：ONUSDT\n\n判定为条件止损单或强平触发，这些标的冷却 120 分钟内不再重开。\n源仍在持仓的话，这段时间我们不跟，避免反复挨打。"
+ },
+ {
+  "id": "bzgkQLpjO4qn",
+  "time": 1794493491,
+  "title": "⚠️ 读取账户权益失败",
+  "message": "已连续读不到账户权益，本轮跳过风控与下单。\n原因可能是 API 限频、密钥失效或网络异常。\n此期间不会开新仓，也不会平仓。"
  }
 ]
