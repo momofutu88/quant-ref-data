@@ -448,5 +448,11 @@
   "time": 1794464430,
   "title": "⚠️ 异常保护：已阻止一轮批量平仓",
   "message": "本轮没有任何源信号，却要求平掉 2 笔仓位（PIEVERSEUSDT、ONUSDT）。\n失败源：无。\n\n已跳过本轮平仓，仓位保持不动。若持续出现，请检查源接口。"
+ },
+ {
+  "id": "Uh1DoEIZl20x",
+  "time": 1794485904,
+  "title": "⚠️ 止损单挂不上",
+  "message": "连续 3 轮无法给持仓挂交易所止损单：\nPIEVERSEUSDT:place:HTTPError\nBCHUSDT:place:HTTPError\nPONSUSDT:place:HTTPError\nONUSDT:place:HTTPError\n\n插针时只剩 4 秒轮询这一道防线，请检查 API 权限或持仓状态。"
  }
 ]
