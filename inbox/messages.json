@@ -454,5 +454,11 @@
   "time": 1794485904,
   "title": "⚠️ 止损单挂不上",
   "message": "连续 3 轮无法给持仓挂交易所止损单：\nPIEVERSEUSDT:place:HTTPError\nBCHUSDT:place:HTTPError\nPONSUSDT:place:HTTPError\nONUSDT:place:HTTPError\n\n插针时只剩 4 秒轮询这一道防线，请检查 API 权限或持仓状态。"
+ },
+ {
+  "id": "OzTCej7VnJs6",
+  "time": 1794489307,
+  "title": "⚠️ 下单失败",
+  "message": "HUSDT 下单失败 RuntimeError: POST /fapi/v1/order -> 400 {\"code\":-2027,\"msg\":\"Exceeded the maximum allowable p\n将自动重试，连续 3 次失败熔断 10 分钟。"
  }
 ]
