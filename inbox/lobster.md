@@ -3,6 +3,16 @@
 > 通道：ntfy.sh/wb-tds-gc-7f3a9c1e ｜ 自动去重归档 ｜ 最新在上
 > 由 GitHub Actions 定时拉取，ntfy 端 12h 过期不影响此处归档。
 
+## 2026-11-12 20:18 · ⚠️ 止损单挂不上
+
+连续 3 轮无法给持仓挂交易所止损单：
+PIEVERSEUSDT:place:HTTPError
+BCHUSDT:place:HTTPError
+PONSUSDT:place:HTTPError
+ONUSDT:place:HTTPError
+
+插针时只剩 4 秒轮询这一道防线，请检查 API 权限或持仓状态。
+
 ## 2026-11-12 14:20 · ⚠️ 异常保护：已阻止一轮批量平仓
 
 本轮没有任何源信号，却要求平掉 2 笔仓位（PIEVERSEUSDT、ONUSDT）。
