@@ -3,6 +3,11 @@
 > 通道：ntfy.sh/wb-tds-gc-7f3a9c1e ｜ 自动去重归档 ｜ 最新在上
 > 由 GitHub Actions 定时拉取，ntfy 端 12h 过期不影响此处归档。
 
+## 2026-11-13 13:33 · 🧟 拦截幽灵持仓信号
+
+TDS 的 position-history 返回 4 笔记录（KOMAUSDT、PIEVERSEUSDT、PUMPUSDT、ZECUSDT），开仓时间早于本源最近一次确认空仓的时刻，判定为已平仓位的残留档案，已拦截不下单。
+若是误判（源真的重开了旧仓位），权益冻结检测会持续复核。
+
 ## 2026-11-13 12:47 · 🧟 拦截幽灵持仓信号
 
 TDS 的 position-history 返回 4 笔记录（KOMAUSDT、PIEVERSEUSDT、PUMPUSDT、ZECUSDT），开仓时间早于本源最近一次确认空仓的时刻，判定为已平仓位的残留档案，已拦截不下单。
