@@ -508,5 +508,29 @@
   "time": 1794548026,
   "title": "🧟 拦截幽灵持仓信号",
   "message": "TDS 的 position-history 返回 4 笔记录（KOMAUSDT、PIEVERSEUSDT、PUMPUSDT、ZECUSDT），开仓时间早于本源最近一次确认空仓的时刻，判定为已平仓位的残留档案，已拦截不下单。\n若是误判（源真的重开了旧仓位），权益冻结检测会持续复核。"
+ },
+ {
+  "id": "wQy1NslEM93t",
+  "time": 1794553511,
+  "title": "🧟 拦截幽灵持仓信号",
+  "message": "TDS 的 position-history 返回 5 笔记录（JCTUSDT、KOMAUSDT、PIEVERSEUSDT、PUMPUSDT、ZECUSDT），开仓时间早于本源最近一次确认空仓的时刻，判定为已平仓位的残留档案，已拦截不下单。\n若是误判（源真的重开了旧仓位），权益冻结检测会持续复核。"
+ },
+ {
+  "id": "qk5stz56ZyQj",
+  "time": 1794554150,
+  "title": "🧟 拦截幽灵持仓信号",
+  "message": "TDS 的 position-history 返回 5 笔记录（JCTUSDT、KOMAUSDT、PIEVERSEUSDT、PUMPUSDT、ZECUSDT），开仓时间早于本源最近一次确认空仓的时刻，判定为已平仓位的残留档案，已拦截不下单。\n若是误判（源真的重开了旧仓位），权益冻结检测会持续复核。"
+ },
+ {
+  "id": "dveh6oQA5zPV",
+  "time": 1794556808,
+  "title": "🧟 拦截幽灵持仓信号",
+  "message": "TDS 的 position-history 返回 3 笔记录（JCTUSDT、PUMPUSDT、ZECUSDT），开仓时间早于本源最近一次确认空仓的时刻，判定为已平仓位的残留档案，已拦截不下单。\n若是误判（源真的重开了旧仓位），权益冻结检测会持续复核。"
+ },
+ {
+  "id": "Riuk674zfLjI",
+  "time": 1794557105,
+  "title": "🧟 拦截幽灵持仓信号",
+  "message": "TDS 的 position-history 返回 5 笔记录（JCTUSDT、KOMAUSDT、PIEVERSEUSDT、PUMPUSDT、ZECUSDT），开仓时间早于本源最近一次确认空仓的时刻，判定为已平仓位的残留档案，已拦截不下单。\n若是误判（源真的重开了旧仓位），权益冻结检测会持续复核。"
  }
 ]
