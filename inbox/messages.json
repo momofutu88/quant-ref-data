@@ -490,5 +490,17 @@
   "time": 1794528060,
   "title": "TDS引擎在线",
   "message": "权益=932.03U | 本轮信号=0 | 日志0s前更新 | halted=False"
+ },
+ {
+  "id": "dRouRV5Vh94s",
+  "time": 1794545129,
+  "title": "🧟 拦截幽灵持仓信号",
+  "message": "TDS 的 position-history 返回 3 笔记录（KOMAUSDT、PIEVERSEUSDT、PUMPUSDT），开仓时间早于本源最近一次确认空仓的时刻，判定为已平仓位的残留档案，已拦截不下单。\n若是误判（源真的重开了旧仓位），权益冻结检测会持续复核。"
+ },
+ {
+  "id": "Dkztn3JQiKZn",
+  "time": 1794545256,
+  "title": "🧟 拦截幽灵持仓信号",
+  "message": "TDS 的 position-history 返回 4 笔记录（KOMAUSDT、PIEVERSEUSDT、PUMPUSDT、ZECUSDT），开仓时间早于本源最近一次确认空仓的时刻，判定为已平仓位的残留档案，已拦截不下单。\n若是误判（源真的重开了旧仓位），权益冻结检测会持续复核。"
  }
 ]
