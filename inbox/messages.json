@@ -880,5 +880,281 @@
   "time": 1794631688,
   "title": "🧟 拦截幽灵持仓（权益冻结验证）",
   "message": "旺财不吃饼 名下记录 3 笔（ACNUSDT、APPUSDT、MCDUSDT），但标的价格波动 ≥0.1% 期间源权益变动 <1U——空仓的权益才会纹丝不动。判定为残留档案，已拦截不下单。"
+ },
+ {
+  "id": "7qL9fiv0NWd6",
+  "time": 1794646203,
+  "title": "【漏跟确认】熬鹰资本 ZECUSDT Long",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：ZECUSDT Long\n· 开仓 10-09 00:10 → 平仓 10-10 01:14\n· 源端盈亏：193650.23 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "v0ZgcQ1lB3Gc",
+  "time": 1794646204,
+  "title": "【漏跟确认】熬鹰资本 BTCUSDT Short",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：BTCUSDT Short\n· 开仓 10-10 01:22 → 平仓 10-23 11:50\n· 源端盈亏：68730.97 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "d5Eoyb6xr800",
+  "time": 1794646206,
+  "title": "【漏跟确认】熬鹰资本 SNDKUSDT Long",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：SNDKUSDT Long\n· 开仓 10-23 11:51 → 平仓 10-29 00:25\n· 源端盈亏：186510.58 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "UbdCH99Tn2ka",
+  "time": 1794646208,
+  "title": "【漏跟确认】熬鹰资本 ETHUSDT Short",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：ETHUSDT Short\n· 开仓 10-24 06:56 → 平仓 10-25 02:30\n· 源端盈亏：33671.36 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "260WyA0qbmL2",
+  "time": 1794646209,
+  "title": "【漏跟确认】熬鹰资本 ETHUSDT Long",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：ETHUSDT Long\n· 开仓 10-29 01:50 → 平仓 10-30 02:38\n· 源端盈亏：-98420.95 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "Nmnwy4PFbY0T",
+  "time": 1794646211,
+  "title": "【漏跟确认】熬鹰资本 HYPEUSDT Short",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：HYPEUSDT Short\n· 开仓 10-30 03:00 → 平仓 10-30 04:49\n· 源端盈亏：47852.58 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "zCyT1LtqwlK5",
+  "time": 1794646213,
+  "title": "【漏跟确认】熬鹰资本 ETHUSDT Short",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：ETHUSDT Short\n· 开仓 10-30 05:00 → 平仓 10-30 10:18\n· 源端盈亏：251567.85 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "UEothCunkk8G",
+  "time": 1794646214,
+  "title": "【漏跟确认】熬鹰资本 SNDKUSDT Long",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：SNDKUSDT Long\n· 开仓 10-30 10:38 → 平仓 10-30 15:44\n· 源端盈亏：3034.77 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "EQoQc52Q139J",
+  "time": 1794646216,
+  "title": "【漏跟确认】熬鹰资本 ETHUSDT Short",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：ETHUSDT Short\n· 开仓 10-30 16:26 → 平仓 11-04 13:51\n· 源端盈亏：-301829.55 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "Yigxbqk6EyUo",
+  "time": 1794646218,
+  "title": "【漏跟确认】熬鹰资本 MUUSDT Long",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：MUUSDT Long\n· 开仓 11-04 13:53 → 平仓 11-05 03:03\n· 源端盈亏：-293549.58 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "HVyz7MiudQox",
+  "time": 1794646219,
+  "title": "【漏跟确认】熬鹰资本 ETHUSDT Short",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：ETHUSDT Short\n· 开仓 11-05 03:03 → 平仓 11-06 03:14\n· 源端盈亏：941979.10 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "Mo30CZwkQ4MX",
+  "time": 1794646221,
+  "title": "【漏跟确认】熬鹰资本 BTCUSDT Long",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：BTCUSDT Long\n· 开仓 11-06 17:06 → 平仓 11-06 20:50\n· 源端盈亏：1398.18 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "0pCflBOOSTjC",
+  "time": 1794646222,
+  "title": "【漏跟确认】熬鹰资本 ETHUSDT Short",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：ETHUSDT Short\n· 开仓 11-08 00:29 → 平仓 11-09 05:55\n· 源端盈亏：41032.51 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "G8tMOwbblXjF",
+  "time": 1794646224,
+  "title": "【漏跟确认】熬鹰资本 ETHUSDT Long",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：ETHUSDT Long\n· 开仓 11-09 06:07 → 平仓 11-09 07:14\n· 源端盈亏：9597.64 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "L2kblbchqP2N",
+  "time": 1794646225,
+  "title": "【漏跟确认】熬鹰资本 SKHYNIXUSDT Long",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：SKHYNIXUSDT Long\n· 开仓 11-09 08:14 → 平仓 11-09 12:11\n· 源端盈亏：6459.42 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "9uQxYfAcXMP9",
+  "time": 1794646227,
+  "title": "【漏跟确认】熬鹰资本 NVDAUSDT Long",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：NVDAUSDT Long\n· 开仓 11-09 17:38 → 平仓 11-10 18:42\n· 源端盈亏：15977.25 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "ejBk8CB7lov6",
+  "time": 1794646229,
+  "title": "【漏跟确认】熬鹰资本 ETHUSDT Short",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：ETHUSDT Short\n· 开仓 11-10 22:38 → 平仓 11-13 10:19\n· 源端盈亏：44759.35 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "vfm0VlMNn184",
+  "time": 1794646230,
+  "title": "【漏跟确认】熬鹰资本 ZECUSDT Short",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：ZECUSDT Short\n· 开仓 11-11 15:28 → 平仓 11-13 14:04\n· 源端盈亏：32947.60 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "1ATnNJSWSfFD",
+  "time": 1794646232,
+  "title": "【漏跟确认】熬鹰资本 SPCXUSDT Short",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：SPCXUSDT Short\n· 开仓 11-13 04:09 → 平仓 11-14 01:10\n· 源端盈亏：1721.19 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "KmUybaoBi4ho",
+  "time": 1794646233,
+  "title": "【漏跟确认】熬鹰资本 BTCUSDT Long",
+  "message": "· 源：熬鹰资本（positionShow=False，开仓期间公开接口不可见）\n· 标的：BTCUSDT Long\n· 开仓 11-13 14:01 → 平仓 11-13 21:38\n· 源端盈亏：27311.41 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "HJFY4vcOCv9b",
+  "time": 1794646235,
+  "title": "【漏跟确认】青云执策 ZECUSDT Long",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：ZECUSDT Long\n· 开仓 10-09 00:10 → 平仓 10-10 01:14\n· 源端盈亏：252.71 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "yqX0lJMMCmSP",
+  "time": 1794646237,
+  "title": "【漏跟确认】青云执策 BTCUSDT Short",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：BTCUSDT Short\n· 开仓 10-10 01:22 → 平仓 10-23 11:51\n· 源端盈亏：86.42 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "C2ZI3Yb0aNcg",
+  "time": 1794646238,
+  "title": "【漏跟确认】青云执策 SNDKUSDT Long",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：SNDKUSDT Long\n· 开仓 10-23 11:52 → 平仓 10-29 00:25\n· 源端盈亏：235.32 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "aKaUeCrx8Ovy",
+  "time": 1794646240,
+  "title": "【漏跟确认】青云执策 ETHUSDT Short",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：ETHUSDT Short\n· 开仓 10-24 06:56 → 平仓 10-25 02:32\n· 源端盈亏：52.70 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "fqzUKAXreAgZ",
+  "time": 1794646241,
+  "title": "【漏跟确认】青云执策 ETHUSDT Long",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：ETHUSDT Long\n· 开仓 10-29 01:50 → 平仓 10-30 03:39\n· 源端盈亏：-173.85 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "dLPiw5VvGlh3",
+  "time": 1794646243,
+  "title": "【漏跟确认】青云执策 HYPEUSDT Short",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：HYPEUSDT Short\n· 开仓 10-30 03:00 → 平仓 10-30 04:49\n· 源端盈亏：42.26 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "kskk1zxxTeOi",
+  "time": 1794646244,
+  "title": "【漏跟确认】青云执策 ETHUSDT Short",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：ETHUSDT Short\n· 开仓 10-30 05:00 → 平仓 10-30 10:19\n· 源端盈亏：301.61 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "0OzZgL9Fe6pj",
+  "time": 1794646246,
+  "title": "【漏跟确认】青云执策 SNDKUSDT Long",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：SNDKUSDT Long\n· 开仓 10-30 10:38 → 平仓 10-30 15:45\n· 源端盈亏：1.13 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "f4n9s7gk78BP",
+  "time": 1794646247,
+  "title": "【漏跟确认】青云执策 ETHUSDT Short",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：ETHUSDT Short\n· 开仓 10-30 16:27 → 平仓 11-04 13:52\n· 源端盈亏：-416.52 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "LiFxkoMTZ8dy",
+  "time": 1794646249,
+  "title": "【漏跟确认】青云执策 MUUSDT Long",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：MUUSDT Long\n· 开仓 11-04 13:53 → 平仓 11-05 03:03\n· 源端盈亏：-381.18 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "tQsS6C8uMthJ",
+  "time": 1794646250,
+  "title": "【漏跟确认】青云执策 ETHUSDT Short",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：ETHUSDT Short\n· 开仓 11-05 03:04 → 平仓 11-06 03:15\n· 源端盈亏：1194.00 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "GbW5lNIq56m2",
+  "time": 1794646252,
+  "title": "【漏跟确认】青云执策 BTCUSDT Long",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：BTCUSDT Long\n· 开仓 11-06 17:07 → 平仓 11-06 20:50\n· 源端盈亏：3.75 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "S2sYCHt3VqgE",
+  "time": 1794646254,
+  "title": "【漏跟确认】青云执策 ETHUSDT Short",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：ETHUSDT Short\n· 开仓 11-08 00:29 → 平仓 11-09 05:56\n· 源端盈亏：364.00 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "dyCCZR0qVjV2",
+  "time": 1794646255,
+  "title": "【漏跟确认】青云执策 ETHUSDT Long",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：ETHUSDT Long\n· 开仓 11-09 06:08 → 平仓 11-09 07:14\n· 源端盈亏：71.13 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "CNIzGe08WXse",
+  "time": 1794646257,
+  "title": "【漏跟确认】青云执策 SKHYNIXUSDT Long",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：SKHYNIXUSDT Long\n· 开仓 11-09 08:15 → 平仓 11-09 12:12\n· 源端盈亏：43.77 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "TsQuOP7XFYHa",
+  "time": 1794646258,
+  "title": "【漏跟确认】青云执策 NVDAUSDT Long",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：NVDAUSDT Long\n· 开仓 11-09 17:38 → 平仓 11-10 18:42\n· 源端盈亏：92.20 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "exsIFZ8yY7Dc",
+  "time": 1794646260,
+  "title": "【漏跟确认】青云执策 ETHUSDT Short",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：ETHUSDT Short\n· 开仓 11-10 22:39 → 平仓 11-13 10:20\n· 源端盈亏：276.68 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "5CmuNgSssWfq",
+  "time": 1794646261,
+  "title": "【漏跟确认】青云执策 ZECUSDT Short",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：ZECUSDT Short\n· 开仓 11-11 15:28 → 平仓 11-13 14:05\n· 源端盈亏：196.24 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "SzsPRheryOUj",
+  "time": 1794646263,
+  "title": "【漏跟确认】青云执策 SPCXUSDT Short",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：SPCXUSDT Short\n· 开仓 11-13 04:10 → 平仓 11-14 01:11\n· 源端盈亏：13.88 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "PJiKiUhSkNx5",
+  "time": 1794646265,
+  "title": "【漏跟确认】青云执策 BTCUSDT Long",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：BTCUSDT Long\n· 开仓 11-13 14:02 → 平仓 11-13 21:39\n· 源端盈亏：178.16 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "3IFKBtsSzok4",
+  "time": 1794646831,
+  "title": "✅ 首笔成交核验",
+  "message": "首笔成交链路核验（自动发送一次）\n\nNVDAUSDT 多 | 名义 914U | 杠杆 10x\n  入场 162.36 现价 162.36053733 浮盈 +0.00%\n  止损 已挂 149.37（距入场 %.1f%%）\n  追踪 待浮盈 >2% 武装\n\n参数：硬止损 8% / 追踪回吐 60% / 杠杆上限 10x / 单笔上限 2.4x本金 / 账户止盈 40%"
+ },
+ {
+  "id": "OFMiVQuQSQyh",
+  "time": 1794647305,
+  "title": "⏳ 陈旧仓位不追",
+  "message": "Bkey资本-刀哥 的 BTCUSDT 开仓已 202 小时（>12h），多为部分止盈后的尾仓，按纪律不追单，仅监控。"
+ },
+ {
+  "id": "Y21OjxNbO4En",
+  "time": 1794647481,
+  "title": "🧟 拦截幽灵持仓（权益冻结验证）",
+  "message": "等风来赢 名下记录 1 笔（NVDAUSDT），但标的价格波动 ≥0.1% 期间源权益变动 <1U——空仓的权益才会纹丝不动。判定为残留档案，已拦截不下单。"
+ },
+ {
+  "id": "4eZJGSl6mCVa",
+  "time": 1794647505,
+  "title": "🧟 拦截幽灵持仓（权益冻结验证）",
+  "message": "Bkey资本-刀哥 名下记录 2 笔（BTCUSDT、NVDAUSDT），但标的价格波动 ≥0.1% 期间源权益变动 <1U——空仓的权益才会纹丝不动。判定为残留档案，已拦截不下单。"
+ },
+ {
+  "id": "Vr3GxkmwCE0B",
+  "time": 1794648133,
+  "title": "🧟 拦截幽灵持仓（权益冻结验证）",
+  "message": "汤姆猫Coday 名下记录 1 笔（NVDAUSDT），但标的价格波动 ≥0.1% 期间源权益变动 <1U——空仓的权益才会纹丝不动。判定为残留档案，已拦截不下单。"
+ },
+ {
+  "id": "1QziDrdFn179",
+  "time": 1794648150,
+  "title": "🧟 拦截幽灵持仓（权益冻结验证）",
+  "message": "Bkey资本-刀哥 名下记录 2 笔（BTCUSDT、NVDAUSDT），但标的价格波动 ≥0.1% 期间源权益变动 <1U——空仓的权益才会纹丝不动。判定为残留档案，已拦截不下单。"
  }
 ]
