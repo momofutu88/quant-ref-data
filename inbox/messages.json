@@ -730,5 +730,71 @@
   "time": 1794623635,
   "title": "🧟 拦截幽灵持仓信号",
   "message": "旺财不吃饼 的 position-history 返回 3 笔记录（ACNUSDT、APPUSDT、MCDUSDT），开仓时间早于本源最近一次确认空仓的时刻，判定为已平仓位的残留档案，已拦截不下单。\n若是误判（源真的重开了旧仓位），权益冻结检测会持续复核。"
+ },
+ {
+  "id": "FirvCN8QYuvd",
+  "time": 1794624108,
+  "title": "🧟 拦截幽灵持仓信号",
+  "message": "旺财不吃饼 的 position-history 返回 3 笔记录（ACNUSDT、APPUSDT、MCDUSDT），开仓时间早于本源最近一次确认空仓的时刻，判定为已平仓位的残留档案，已拦截不下单。\n若是误判（源真的重开了旧仓位），权益冻结检测会持续复核。"
+ },
+ {
+  "id": "5DaEP6FR1KVE",
+  "time": 1794625120,
+  "title": "⚠️ 读取账户权益失败",
+  "message": "已连续读不到账户权益，本轮跳过风控与下单。\n原因可能是 API 限频、密钥失效或网络异常。\n此期间不会开新仓，也不会平仓。"
+ },
+ {
+  "id": "Lu3kl4RRhSJt",
+  "time": 1794625943,
+  "title": "🧟 拦截幽灵持仓信号",
+  "message": "旺财不吃饼 的 position-history 返回 3 笔记录（ACNUSDT、APPUSDT、MCDUSDT），开仓时间早于本源最近一次确认空仓的时刻，判定为已平仓位的残留档案，已拦截不下单。\n若是误判（源真的重开了旧仓位），权益冻结检测会持续复核。"
+ },
+ {
+  "id": "DV2ML6DvwvJW",
+  "time": 1794626141,
+  "title": "TDS引擎异常",
+  "message": "service=inactive\nunknown | 日志滞后=113s | 权益=734.61U | halted=False"
+ },
+ {
+  "id": "Nxo7z0Jlx8VY",
+  "time": 1794626403,
+  "title": "🚨 引擎心跳异常",
+  "message": "tds-engine 服务未运行（systemd 报告非 active）\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "I8zAcxwXLfKs",
+  "time": 1794626454,
+  "title": "TDS引擎异常",
+  "message": "service=inactive\nunknown | 日志滞后=426s | 权益=734.61U | halted=False"
+ },
+ {
+  "id": "XsxyYAzthxuw",
+  "time": 1794626532,
+  "title": "🧟 拦截幽灵持仓信号",
+  "message": "旺财不吃饼 的 position-history 返回 3 笔记录（ACNUSDT、APPUSDT、MCDUSDT），开仓时间早于本源最近一次确认空仓的时刻，判定为已平仓位的残留档案，已拦截不下单。\n若是误判（源真的重开了旧仓位），权益冻结检测会持续复核。"
+ },
+ {
+  "id": "0sZvMTO0e00Z",
+  "time": 1794626762,
+  "title": "TDS引擎异常",
+  "message": "service=inactive\nunknown | 日志滞后=223s | 权益=734.61U | halted=False"
+ },
+ {
+  "id": "21kKceRnhFQ4",
+  "time": 1794627062,
+  "title": "TDS引擎异常",
+  "message": "service=inactive\nunknown | 日志滞后=523s | 权益=734.61U | halted=False"
+ },
+ {
+  "id": "IqAx5b1HQdjs",
+  "time": 1794627104,
+  "title": "🧟 拦截幽灵持仓信号",
+  "message": "旺财不吃饼 的 position-history 返回 3 笔记录（ACNUSDT、APPUSDT、MCDUSDT），开仓时间早于本源最近一次确认空仓的时刻，判定为已平仓位的残留档案，已拦截不下单。\n若是误判（源真的重开了旧仓位），权益冻结检测会持续复核。"
+ },
+ {
+  "id": "9Fir641mD5GU",
+  "time": 1794627286,
+  "title": "🧟 拦截幽灵持仓信号",
+  "message": "旺财不吃饼 的 position-history 返回 3 笔记录（ACNUSDT、APPUSDT、MCDUSDT），开仓时间早于本源最近一次确认空仓的时刻，判定为已平仓位的残留档案，已拦截不下单。\n若是误判（源真的重开了旧仓位），权益冻结检测会持续复核。"
  }
 ]
