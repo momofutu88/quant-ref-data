@@ -1306,5 +1306,11 @@
   "time": 1794778803,
   "title": "🚨 引擎心跳异常",
   "message": "last_run 时间解析失败（格式变化？）: '2026-11-16T05:40:01+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "UHXNb8kua0yS",
+  "time": 1794783003,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-16T06:50:00+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
  }
 ]
