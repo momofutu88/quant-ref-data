@@ -1288,5 +1288,17 @@
   "time": 1794774103,
   "title": "⛔ 总敞口闸门（实际持仓口径）",
   "message": "实际持仓 3360U 超上限 3304U（超 56U），已禁加仓并强制减仓收敛。保护名单未动。"
+ },
+ {
+  "id": "WsjKSjYmAJA0",
+  "time": 1794775203,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-16T04:39:55+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "IQmzOKqqi9LZ",
+  "time": 1794776404,
+  "title": "深亏区哨兵",
+  "message": "🟢 [总敞口] 实际持仓 3379U 回到上限 3380U 以内"
  }
 ]
