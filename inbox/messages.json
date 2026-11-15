@@ -1234,5 +1234,11 @@
   "time": 1794694804,
   "title": "【漏跟确认】青云执策 ZECUSDT Short",
   "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：ZECUSDT Short\n· 开仓 11-14 21:04 → 平仓 11-15 06:14\n· 源端盈亏：67.40 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "zrn3uPodwIZ9",
+  "time": 1794700847,
+  "title": "TDS引擎在线",
+  "message": "权益=?U | 本轮信号=? | 日志1s前更新 | halted=False"
  }
 ]
