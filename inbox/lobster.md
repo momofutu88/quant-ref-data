@@ -3,6 +3,20 @@
 > 通道：ntfy.sh/wb-tds-gc-7f3a9c1e ｜ 自动去重归档 ｜ 最新在上
 > 由 GitHub Actions 定时拉取，ntfy 端 12h 过期不影响此处归档。
 
+## 2026-11-16 08:00 · TDS引擎在线
+
+权益=855.64U | 本轮信号=2 | 日志4s前更新 | halted=False
+
+## 2026-11-16 07:50 · 🚨 引擎心跳异常
+
+last_run 时间解析失败（格式变化？）: '2026-11-16T07:49:59+08:00' - ValueError
+
+请登录服务器检查：systemctl status tds-engine
+
+## 2026-11-16 07:36 · MIL OPEN GOOGLUSDT Long
+
+GOOGLUSDT Long 开于11-13 23:08 检出延迟3388.4分钟 entry=293.7375 qty=80.0 lev=20
+
 ## 2026-11-16 06:50 · 🚨 引擎心跳异常
 
 last_run 时间解析失败（格式变化？）: '2026-11-16T06:50:00+08:00' - ValueError
