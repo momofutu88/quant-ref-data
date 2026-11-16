@@ -1606,5 +1606,17 @@
   "time": 1794856802,
   "title": "🚨 引擎心跳异常",
   "message": "last_run 时间解析失败（格式变化？）: '2026-11-17T03:19:59+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "he8GZIDw6jA5",
+  "time": 1794857404,
+  "title": "🦅 熬鹰动态 [财报窗口] 03:30",
+  "message": "🟢 熬鹰系 [财报窗口]新开仓(影子)：NVDAUSDT 多 名义4838U"
+ },
+ {
+  "id": "CiA6YzE1WTlo",
+  "time": 1794857405,
+  "title": "🛰 红队情报 03:30",
+  "message": "💸 NVDAUSDT 资金费率异常 0.032%（年化约 35%），持仓成本要盯"
  }
 ]
