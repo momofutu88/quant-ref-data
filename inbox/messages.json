@@ -1312,5 +1312,23 @@
   "time": 1794783003,
   "title": "🚨 引擎心跳异常",
   "message": "last_run 时间解析失败（格式变化？）: '2026-11-16T06:50:00+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "apMrjFtdkhtB",
+  "time": 1794785794,
+  "title": "MIL OPEN GOOGLUSDT Long",
+  "message": "GOOGLUSDT Long 开于11-13 23:08 检出延迟3388.4分钟 entry=293.7375 qty=80.0 lev=20"
+ },
+ {
+  "id": "zTQlqQu7M7A0",
+  "time": 1794786603,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-16T07:49:59+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "IkNKJPyUoJxR",
+  "time": 1794787211,
+  "title": "TDS引擎在线",
+  "message": "权益=855.64U | 本轮信号=2 | 日志4s前更新 | halted=False"
  }
 ]
