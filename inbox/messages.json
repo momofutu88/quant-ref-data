@@ -1618,5 +1618,11 @@
   "time": 1794857405,
   "title": "🛰 红队情报 03:30",
   "message": "💸 NVDAUSDT 资金费率异常 0.032%（年化约 35%），持仓成本要盯"
+ },
+ {
+  "id": "eTf6L9Hu913A",
+  "time": 1794860403,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-17T04:20:00+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
  }
 ]
