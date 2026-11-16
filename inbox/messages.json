@@ -1582,5 +1582,29 @@
   "time": 1794852603,
   "title": "🚨 引擎心跳异常",
   "message": "last_run 时间解析失败（格式变化？）: '2026-11-17T02:09:59+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "jwMgLoWQUkhz",
+  "time": 1794853803,
+  "title": "🦅 熬鹰动态 [财报窗口] 02:30",
+  "message": "🚪 熬鹰系(经青云影子) [财报窗口]：全部持仓清空（连续2次确认）"
+ },
+ {
+  "id": "hGWnzmhcNaKE",
+  "time": 1794854704,
+  "title": "🦅 熬鹰动态 [财报窗口] 02:45",
+  "message": "🟢 熬鹰系 [财报窗口]新开仓(影子)：NVDAUSDT 多 名义4838U"
+ },
+ {
+  "id": "W1a4wWWFeo02",
+  "time": 1794856503,
+  "title": "🦅 熬鹰动态 [财报窗口] 03:15",
+  "message": "🚪 熬鹰系(经青云影子) [财报窗口]：全部持仓清空（连续2次确认）"
+ },
+ {
+  "id": "tz954oQRoNPr",
+  "time": 1794856802,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-17T03:19:59+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
  }
 ]
