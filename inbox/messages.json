@@ -1510,5 +1510,35 @@
   "time": 1794833403,
   "title": "🚨 引擎心跳异常",
   "message": "last_run 时间解析失败（格式变化？）: '2026-11-16T20:49:55+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "dJNnG5CorstD",
+  "time": 1794837003,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-16T21:49:55+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "GcRancQChv1n",
+  "time": 1794841203,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-16T22:59:59+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "U1L8KoteGodC",
+  "time": 1794841204,
+  "title": "🦅 熬鹰动态 [财报窗口] 23:00",
+  "message": "🟡 熬鹰系 [财报窗口]加仓(影子)：NVDAUSDT 名义 3573U -> 4838U（35%）\n\n📊 熬鹰系 [财报窗口]总敞口突变：3573U -> 4838U（35%）"
+ },
+ {
+  "id": "EbTfBFRvSDaQ",
+  "time": 1794841516,
+  "title": "⏳ 陈旧仓位不追",
+  "message": "Bkey资本-刀哥 的 BTCUSDT 开仓已 256 小时（>12h），多为部分止盈后的尾仓，按纪律不追单，仅监控。"
+ },
+ {
+  "id": "QAgQKrfInGg5",
+  "time": 1794842116,
+  "title": "✅ 已收紧信号源：只跟熬鹰+青云",
+  "message": "按董事长 23:12 指令执行（提交 32e8bc9）：\n• 停跟：等风来赢 / 汤姆猫 / Bkey / champbajwa（四源 weight 归零）\n• 只留青云 weight 1.00 = 1:1 步调（源加35% 我们加35%）\n• 熬鹰本体仍隐藏，读不到活仓 → 实际执行只有青云一条腿\n\n仓位零变化：NVDA 多 12.78 张 @161.33，无 BTC 仓\n三层止损在位 141.97 / 133.9 / 128.96；限价减仓 163.5、165.5 在挂\n权益 785.5U，浮亏 -16.2U\n\n代价提醒：青云接口若故障，没有备份源接管，敞口会冻住等人工处理。\nBkey 那条 BTC 老仓（非熬鹰非青云）没有跟，符合指令。"
  }
 ]
