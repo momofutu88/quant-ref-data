@@ -1570,5 +1570,17 @@
   "time": 1794848409,
   "title": "深亏区哨兵",
   "message": "哨兵异常: HTTP Error 400: Bad Request"
+ },
+ {
+  "id": "hVy7qSWrYl6P",
+  "time": 1794849003,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-17T01:09:59+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "qN6YQ1rsq5B2",
+  "time": 1794852603,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-17T02:09:59+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
  }
 ]
