@@ -1780,5 +1780,23 @@
   "time": 1794896103,
   "title": "🦅 熬鹰动态 14:15",
   "message": "🟢 熬鹰系新开仓(影子)：NVDAUSDT 多 名义4838U"
+ },
+ {
+  "id": "sI7CaxQdTmZY",
+  "time": 1794899403,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-17T15:09:58+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "iAQ105JFRZ9g",
+  "time": 1794899703,
+  "title": "🦅 熬鹰动态 15:15",
+  "message": "🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）"
+ },
+ {
+  "id": "F8n6igB2ORrW",
+  "time": 1794903304,
+  "title": "🦅 熬鹰动态 16:15",
+  "message": "🟢 熬鹰系新开仓(影子)：NVDAUSDT 多 名义4838U"
  }
 ]
