@@ -1834,5 +1834,17 @@
   "time": 1794911404,
   "title": "🚨 引擎心跳异常",
   "message": "last_run 时间解析失败（格式变化？）: '2026-11-17T18:29:59+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "hakp2419tHOB",
+  "time": 1794915003,
+  "title": "🦅 熬鹰动态 19:30",
+  "message": "🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）"
+ },
+ {
+  "id": "B2kNSB3jB0CF",
+  "time": 1794915603,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-17T19:40:00+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
  }
 ]
