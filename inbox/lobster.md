@@ -3,6 +3,24 @@
 > 通道：ntfy.sh/wb-tds-gc-7f3a9c1e ｜ 自动去重归档 ｜ 最新在上
 > 由 GitHub Actions 定时拉取，ntfy 端 12h 过期不影响此处归档。
 
+## 2026-11-18 07:26 · MIL OPEN METAUSDT Long
+
+METAUSDT Long 开于11-17 01:25 检出延迟1800.5分钟 entry=621.33 qty=120.0 lev=20
+
+## 2026-11-18 07:26 · MIL OPEN NVDAUSDT Long
+
+NVDAUSDT Long 开于11-13 22:31 检出延迟6294.7分钟 entry=163.33285714 qty=70.0 lev=50
+
+## 2026-11-18 07:20 · 🚨 引擎心跳异常
+
+last_run 时间解析失败（格式变化？）: '2026-11-18T07:19:59+08:00' - ValueError
+
+请登录服务器检查：systemctl status tds-engine
+
+## 2026-11-18 07:15 · 🦅 熬鹰动态 07:15
+
+🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）
+
 ## 2026-11-18 06:30 · MIL OPEN SNDKUSDT Long
 
 SNDKUSDT Long 开于11-13 21:46 检出延迟6284.1分钟 entry=824.09291667 qty=48.0 lev=20
