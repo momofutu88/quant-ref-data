@@ -1984,5 +1984,71 @@
   "time": 1794939303,
   "title": "🦅 熬鹰动态 02:15",
   "message": "🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）"
+ },
+ {
+  "id": "AomVZj7hm0N1",
+  "time": 1794940204,
+  "title": "🦅 熬鹰动态 02:30",
+  "message": "🟢 熬鹰系新开仓(影子)：BTCUSDT 空 名义10294U"
+ },
+ {
+  "id": "hrt0jDkIq932",
+  "time": 1794941748,
+  "title": "⚡ 镜像快开",
+  "message": "等风来赢 实时持仓出现 BTCUSDT SHORT（青云档案未更新），按 等风来赢 权益折算目标 -2729U 抢先开仓，青云档案跟上后自动接管。"
+ },
+ {
+  "id": "gdlZVgkMFKq7",
+  "time": 1794942004,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-18T02:59:58+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "EB6zsNxODvg7",
+  "time": 1794942004,
+  "title": "【漏跟确认】青云执策 BTCUSDT Short",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：BTCUSDT Short\n· 开仓 11-17 23:39 → 平仓 11-18 02:52\n· 源端盈亏：69.05 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "yICCkqdFvgu9",
+  "time": 1794942004,
+  "title": "🦅 熬鹰动态 03:00",
+  "message": "🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）\n\n✅ 熬鹰本尊平仓确认：BTCUSDT Short 盈亏 +16542U（11-17 23:39 开 11-18 02:51 平）"
+ },
+ {
+  "id": "3xCTGfeRJivp",
+  "time": 1794942005,
+  "title": "🛰 红队情报 03:00",
+  "message": "🗓 24 小时 前 美联储会议纪要：11-19 03:00\n12 月加息概率 89%，纪要偏鹰会压风险资产"
+ },
+ {
+  "id": "ZloE9CGZnWp9",
+  "time": 1794942440,
+  "title": "⚡ 镜像快开",
+  "message": "等风来赢 实时持仓出现 SKHYNIXUSDT LONG（青云档案未更新），按 等风来赢 权益折算目标 476U 抢先开仓，青云档案跟上后自动接管。"
+ },
+ {
+  "id": "f32HD6LfDtz4",
+  "time": 1794942482,
+  "title": "⚡ 镜像快开",
+  "message": "等风来赢 实时持仓出现 SKHYNIXUSDT LONG（青云档案未更新），按 等风来赢 权益折算目标 476U 抢先开仓，青云档案跟上后自动接管。"
+ },
+ {
+  "id": "e43mQUO5UVLM",
+  "time": 1794942528,
+  "title": "⚡ 镜像快开",
+  "message": "等风来赢 实时持仓出现 SKHYNIXUSDT LONG（青云档案未更新），按 等风来赢 权益折算目标 476U 抢先开仓，青云档案跟上后自动接管。"
+ },
+ {
+  "id": "VkSSt094DvLM",
+  "time": 1794942569,
+  "title": "⚡ 镜像快开",
+  "message": "汤姆猫Coday 实时持仓出现 SKHYNIXUSDT LONG（青云档案未更新），按 汤姆猫Coday 权益折算目标 539U 抢先开仓，青云档案跟上后自动接管。"
+ },
+ {
+  "id": "hbhEpNTyQpeS",
+  "time": 1794943804,
+  "title": "🛰 红队情报 03:30",
+  "message": "🗓 2 小时 前 NVDA 三季度财报（盘后）：11-18 05:20\n历史财报日平均波动 ±5.6%，最差 -8.5%；我们 NVDA 名义约 1,664U，跳空穿透 142.99 会有滑点"
  }
 ]
