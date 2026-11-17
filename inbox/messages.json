@@ -1720,5 +1720,35 @@
   "time": 1794886203,
   "title": "🦅 熬鹰动态 11:30",
   "message": "🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）"
+ },
+ {
+  "id": "ZRXqdETm8m6E",
+  "time": 1794887403,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-17T11:49:57+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "WQZFZHba2yEv",
+  "time": 1794888003,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-17T11:59:57+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "utxamCJ3hETH",
+  "time": 1794888004,
+  "title": "🦅 熬鹰动态 12:00",
+  "message": "🟢 熬鹰系新开仓(影子)：NVDAUSDT 多 名义4838U"
+ },
+ {
+  "id": "a35PEZ4UP1FL",
+  "time": 1794888008,
+  "title": "深亏区哨兵",
+  "message": "哨兵异常: HTTP Error 400: Bad Request"
+ },
+ {
+  "id": "UmPqlIT5mquS",
+  "time": 1794890703,
+  "title": "🦅 熬鹰动态 12:45",
+  "message": "🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）"
  }
 ]
