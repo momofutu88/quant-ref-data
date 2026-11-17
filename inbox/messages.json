@@ -2110,5 +2110,29 @@
   "time": 1794954631,
   "title": "MIL OPEN MUUSDT Long",
   "message": "MUUSDT Long 开于11-13 22:50 检出延迟6219.9分钟 entry=715.23652174 qty=46.0 lev=20"
+ },
+ {
+  "id": "pn9FrD0HksCS",
+  "time": 1794957303,
+  "title": "🦅 熬鹰动态 07:15",
+  "message": "🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）"
+ },
+ {
+  "id": "XM9pHXE0X7vC",
+  "time": 1794957603,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-18T07:19:59+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "RPFEkEavZDpD",
+  "time": 1794957985,
+  "title": "MIL OPEN METAUSDT Long",
+  "message": "METAUSDT Long 开于11-17 01:25 检出延迟1800.5分钟 entry=621.33 qty=120.0 lev=20"
+ },
+ {
+  "id": "3RUsSr8Bj523",
+  "time": 1794957985,
+  "title": "MIL OPEN NVDAUSDT Long",
+  "message": "NVDAUSDT Long 开于11-13 22:31 检出延迟6294.7分钟 entry=163.33285714 qty=70.0 lev=50"
  }
 ]
