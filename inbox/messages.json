@@ -2068,5 +2068,23 @@
   "time": 1794947404,
   "title": "🦅 熬鹰动态 04:30",
   "message": "🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）"
+ },
+ {
+  "id": "CKOtV12ihB6n",
+  "time": 1794948303,
+  "title": "🦅 熬鹰动态 04:45",
+  "message": "🟢 熬鹰系新开仓(影子)：SKHYNIXUSDT 多 名义1916U\n\n🟢 熬鹰系新开仓(影子)：NVDAUSDT 多 名义4443U\n\n📊 熬鹰系总敞口突变：4477U -> 6359U（42%）"
+ },
+ {
+  "id": "04C1FDGRdzEN",
+  "time": 1794949803,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-18T05:10:00+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "EBfmazKoR83f",
+  "time": 1794951004,
+  "title": "🦅 熬鹰动态 05:30",
+  "message": "🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）"
  }
 ]
