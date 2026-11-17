@@ -1642,5 +1642,17 @@
   "time": 1794868203,
   "title": "🚨 引擎心跳异常",
   "message": "last_run 时间解析失败（格式变化？）: '2026-11-17T06:29:58+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "2gevkfQWmfTZ",
+  "time": 1794871804,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-17T07:29:59+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "WWmUaTSPxRoE",
+  "time": 1794873647,
+  "title": "TDS引擎在线",
+  "message": "权益=738.89U | 本轮信号=1 | 日志1s前更新 | halted=False"
  }
 ]
