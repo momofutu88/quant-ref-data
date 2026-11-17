@@ -3,6 +3,20 @@
 > 通道：ntfy.sh/wb-tds-gc-7f3a9c1e ｜ 自动去重归档 ｜ 最新在上
 > 由 GitHub Actions 定时拉取，ntfy 端 12h 过期不影响此处归档。
 
+## 2026-11-17 18:30 · 🚨 引擎心跳异常
+
+last_run 时间解析失败（格式变化？）: '2026-11-17T18:29:59+08:00' - ValueError
+
+请登录服务器检查：systemctl status tds-engine
+
+## 2026-11-17 18:16 · MIL OPEN GOOGLUSDT Long
+
+GOOGLUSDT Long 开于11-13 23:08 检出延迟5468.3分钟 entry=289.72125 qty=110.0 lev=20
+
+## 2026-11-17 17:45 · 🦅 熬鹰动态 17:45
+
+🟢 熬鹰系新开仓(影子)：NVDAUSDT 多 名义4838U
+
 ## 2026-11-17 17:20 · 🚨 引擎心跳异常
 
 last_run 时间解析失败（格式变化？）: '2026-11-17T17:19:58+08:00' - ValueError
