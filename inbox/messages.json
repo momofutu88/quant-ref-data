@@ -1948,5 +1948,23 @@
   "time": 1794931212,
   "title": "深亏区哨兵",
   "message": "哨兵异常: HTTP Error 400: Bad Request"
+ },
+ {
+  "id": "9KFW2qhBll5C",
+  "time": 1794933903,
+  "title": "🦅 熬鹰动态 00:45",
+  "message": "🟡 熬鹰系加仓(影子)：BTCUSDT 名义 6259U -> 10294U（64%）\n\n📊 熬鹰系总敞口突变：6259U -> 10294U（64%）"
+ },
+ {
+  "id": "0mwWMlY42ITD",
+  "time": 1794934803,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-18T01:00:01+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "uHxyp3KVyLvm",
+  "time": 1794935704,
+  "title": "🦅 熬鹰动态 01:15",
+  "message": "🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）"
  }
 ]
