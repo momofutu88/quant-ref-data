@@ -3,6 +3,26 @@
 > 通道：ntfy.sh/wb-tds-gc-7f3a9c1e ｜ 自动去重归档 ｜ 最新在上
 > 由 GitHub Actions 定时拉取，ntfy 端 12h 过期不影响此处归档。
 
+## 2026-11-18 06:30 · MIL OPEN SNDKUSDT Long
+
+SNDKUSDT Long 开于11-13 21:46 检出延迟6284.1分钟 entry=824.09291667 qty=48.0 lev=20
+
+## 2026-11-18 06:30 · MIL OPEN MUUSDT Long
+
+MUUSDT Long 开于11-13 22:50 检出延迟6219.9分钟 entry=715.23652174 qty=46.0 lev=20
+
+## 2026-11-18 06:15 · 🦅 熬鹰动态 06:15
+
+🟢 熬鹰系新开仓(影子)：SKHYNIXUSDT 多 名义1916U
+
+🟢 熬鹰系新开仓(影子)：NVDAUSDT 多 名义4443U
+
+## 2026-11-18 06:10 · 🚨 引擎心跳异常
+
+last_run 时间解析失败（格式变化？）: '2026-11-18T06:10:01+08:00' - ValueError
+
+请登录服务器检查：systemctl status tds-engine
+
 ## 2026-11-18 05:30 · 🦅 熬鹰动态 05:30
 
 🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）
