@@ -1816,5 +1816,23 @@
   "time": 1794907203,
   "title": "🚨 引擎心跳异常",
   "message": "last_run 时间解析失败（格式变化？）: '2026-11-17T17:19:58+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "MYrEBJdqGbmY",
+  "time": 1794908703,
+  "title": "🦅 熬鹰动态 17:45",
+  "message": "🟢 熬鹰系新开仓(影子)：NVDAUSDT 多 名义4838U"
+ },
+ {
+  "id": "wiUzqNHWJIE7",
+  "time": 1794910588,
+  "title": "MIL OPEN GOOGLUSDT Long",
+  "message": "GOOGLUSDT Long 开于11-13 23:08 检出延迟5468.3分钟 entry=289.72125 qty=110.0 lev=20"
+ },
+ {
+  "id": "k8DeQGhUq2hb",
+  "time": 1794911404,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-17T18:29:59+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
  }
 ]
