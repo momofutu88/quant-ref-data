@@ -1750,5 +1750,17 @@
   "time": 1794890703,
   "title": "🦅 熬鹰动态 12:45",
   "message": "🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）"
+ },
+ {
+  "id": "Sd2sFBILUGJX",
+  "time": 1794891603,
+  "title": "🦅 熬鹰动态 13:00",
+  "message": "🟢 熬鹰系新开仓(影子)：NVDAUSDT 多 名义4838U"
+ },
+ {
+  "id": "k4fTo6NPXSQO",
+  "time": 1794892203,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-17T13:09:59+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
  }
 ]
