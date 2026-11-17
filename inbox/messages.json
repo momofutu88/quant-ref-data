@@ -1846,5 +1846,29 @@
   "time": 1794915603,
   "title": "🚨 引擎心跳异常",
   "message": "last_run 时间解析失败（格式变化？）: '2026-11-17T19:40:00+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "W3tMwz0wZS5K",
+  "time": 1794916804,
+  "title": "🦅 熬鹰动态 20:00",
+  "message": "🟢 熬鹰系新开仓(影子)：NVDAUSDT 多 名义4838U"
+ },
+ {
+  "id": "JpI1eLBokJRf",
+  "time": 1794916810,
+  "title": "🛰 红队情报 20:00",
+  "message": "💸 NVDAUSDT 资金费率异常 0.034%（年化约 37%），持仓成本要盯"
+ },
+ {
+  "id": "oTUmdjUY5bS6",
+  "time": 1794916811,
+  "title": "深亏区哨兵",
+  "message": "哨兵异常: HTTP Error 400: Bad Request"
+ },
+ {
+  "id": "kEWFBJEQ98Yd",
+  "time": 1794919503,
+  "title": "🦅 熬鹰动态 20:45",
+  "message": "🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）"
  }
 ]
