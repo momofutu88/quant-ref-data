@@ -2086,5 +2086,29 @@
   "time": 1794951004,
   "title": "🦅 熬鹰动态 05:30",
   "message": "🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）"
+ },
+ {
+  "id": "FrykLgutCEPs",
+  "time": 1794953403,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-18T06:10:01+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "8y24B4gDuI0j",
+  "time": 1794953703,
+  "title": "🦅 熬鹰动态 06:15",
+  "message": "🟢 熬鹰系新开仓(影子)：SKHYNIXUSDT 多 名义1916U\n\n🟢 熬鹰系新开仓(影子)：NVDAUSDT 多 名义4443U"
+ },
+ {
+  "id": "yMh1W3fJzWoU",
+  "time": 1794954631,
+  "title": "MIL OPEN SNDKUSDT Long",
+  "message": "SNDKUSDT Long 开于11-13 21:46 检出延迟6284.1分钟 entry=824.09291667 qty=48.0 lev=20"
+ },
+ {
+  "id": "dIsVZYDcwW9l",
+  "time": 1794954631,
+  "title": "MIL OPEN MUUSDT Long",
+  "message": "MUUSDT Long 开于11-13 22:50 检出延迟6219.9分钟 entry=715.23652174 qty=46.0 lev=20"
  }
 ]
