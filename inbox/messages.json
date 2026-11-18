@@ -2212,5 +2212,29 @@
   "time": 1794967207,
   "title": "⚡ 镜像快开",
   "message": "汤姆猫Coday 实时持仓出现 BTCUSDT SHORT（青云档案未更新），按 汤姆猫Coday 权益折算目标 -2693U 抢先开仓，青云档案跟上后自动接管。"
+ },
+ {
+  "id": "8WlQxcpHOcaT",
+  "time": 1794968103,
+  "title": "🦅 熬鹰动态 10:15",
+  "message": "🟢 熬鹰系新开仓(影子)：BTCUSDT 空 名义11250U\n\n🔴 熬鹰系平仓(影子)：SKHYNIXUSDT（原名义 1916U）\n\n🔴 熬鹰系平仓(影子)：NVDAUSDT（原名义 4443U）\n\n📊 熬鹰系总敞口突变：6359U -> 11250U（77%）"
+ },
+ {
+  "id": "mywGzzzUJJT8",
+  "time": 1794969602,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-18T10:40:00+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "BhR7GceKD0f6",
+  "time": 1794969902,
+  "title": "🦅 熬鹰动态 10:45",
+  "message": "🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）"
+ },
+ {
+  "id": "xY6tmCu6KOgy",
+  "time": 1794971703,
+  "title": "🦅 熬鹰动态 11:15",
+  "message": "🟢 熬鹰系新开仓(影子)：BTCUSDT 空 名义11250U"
  }
 ]
