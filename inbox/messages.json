@@ -2362,5 +2362,17 @@
   "time": 1795000203,
   "title": "🚨 引擎心跳异常",
   "message": "last_run 时间解析失败（格式变化？）: '2026-11-18T19:10:01+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "7EEaQqUGUkXW",
+  "time": 1795003204,
+  "title": "🦅 熬鹰动态 20:00",
+  "message": "🟢 熬鹰系新开仓(影子)：BTCUSDT 空 名义11250U"
+ },
+ {
+  "id": "u0afzHWpcAK1",
+  "time": 1795004403,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-18T20:19:58+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
  }
 ]
