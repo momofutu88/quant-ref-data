@@ -2236,5 +2236,17 @@
   "time": 1794971703,
   "title": "🦅 熬鹰动态 11:15",
   "message": "🟢 熬鹰系新开仓(影子)：BTCUSDT 空 名义11250U"
+ },
+ {
+  "id": "nWgqq0hYD2lp",
+  "time": 1794973202,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-18T11:40:00+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "XafiH9g1Nbnu",
+  "time": 1794974404,
+  "title": "🦅 熬鹰动态 12:00",
+  "message": "🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）"
  }
 ]
