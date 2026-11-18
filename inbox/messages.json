@@ -2410,5 +2410,47 @@
   "time": 1795012803,
   "title": "🚨 引擎心跳异常",
   "message": "last_run 时间解析失败（格式变化？）: '2026-11-18T22:40:00+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "5CjqTEdbslmh",
+  "time": 1795013103,
+  "title": "🦅 熬鹰动态 22:45",
+  "message": "🟢 熬鹰系新开仓(影子)：BTCUSDT 空 名义11250U"
+ },
+ {
+  "id": "ZvJwQ7uCIgQM",
+  "time": 1795014603,
+  "title": "【漏跟确认】青云执策 BTCUSDT Short",
+  "message": "· 源：青云执策（positionShow=False，开仓期间公开接口不可见）\n· 标的：BTCUSDT Short\n· 开仓 11-18 09:58 → 平仓 11-18 23:00\n· 源端盈亏：74.78 U\n· 这笔我们没有跟到，请核对捕获率日报与影子号数据"
+ },
+ {
+  "id": "KanPbMYYvgPs",
+  "time": 1795014903,
+  "title": "🦅 熬鹰动态 23:15",
+  "message": "✅ 熬鹰本尊平仓确认：BTCUSDT Short 盈亏 +16645U（11-18 09:58 开 11-18 23:00 平）"
+ },
+ {
+  "id": "XGz63d2eum4d",
+  "time": 1795015803,
+  "title": "🦅 熬鹰动态 23:30",
+  "message": "🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）"
+ },
+ {
+  "id": "wgYY5rne2Ooh",
+  "time": 1795016388,
+  "title": "MIL OPEN MUUSDT Long",
+  "message": "MUUSDT Long 开于11-13 22:50 检出延迟7249.2分钟 entry=712.76888889 qty=46.0 lev=20"
+ },
+ {
+  "id": "RYVeMahdliyZ",
+  "time": 1795016388,
+  "title": "MIL OPEN SNDKUSDT Long",
+  "message": "SNDKUSDT Long 开于11-13 21:46 检出延迟7313.4分钟 entry=809.03701299 qty=48.0 lev=20"
+ },
+ {
+  "id": "s5cN3nvDNOnH",
+  "time": 1795016403,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-18T23:40:00+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
  }
 ]
