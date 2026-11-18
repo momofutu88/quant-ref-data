@@ -2374,5 +2374,29 @@
   "time": 1795004403,
   "title": "🚨 引擎心跳异常",
   "message": "last_run 时间解析失败（格式变化？）: '2026-11-18T20:19:58+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "erOyP0emcta8",
+  "time": 1795005004,
+  "title": "🦅 熬鹰动态 20:30",
+  "message": "🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）"
+ },
+ {
+  "id": "aJQvh9vDKAtk",
+  "time": 1795005009,
+  "title": "深亏区哨兵",
+  "message": "哨兵异常: HTTP Error 400: Bad Request"
+ },
+ {
+  "id": "eiJyCN5Kn6US",
+  "time": 1795006804,
+  "title": "🦅 熬鹰动态 21:00",
+  "message": "🟢 熬鹰系新开仓(影子)：BTCUSDT 空 名义11250U"
+ },
+ {
+  "id": "uAao45NT1JIM",
+  "time": 1795008604,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-18T21:29:59+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
  }
 ]
