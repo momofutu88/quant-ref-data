@@ -3,6 +3,12 @@
 > 通道：ntfy.sh/wb-tds-gc-7f3a9c1e ｜ 自动去重归档 ｜ 最新在上
 > 由 GitHub Actions 定时拉取，ntfy 端 12h 过期不影响此处归档。
 
+## 2026-11-19 07:30 · 🚨 引擎心跳异常
+
+last_run 时间解析失败（格式变化？）: '2026-11-19T07:30:01+08:00' - ValueError
+
+请登录服务器检查：systemctl status tds-engine
+
 ## 2026-11-19 06:20 · 🚨 引擎心跳异常
 
 last_run 时间解析失败（格式变化？）: '2026-11-19T06:19:53+08:00' - ValueError
