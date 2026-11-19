@@ -3,6 +3,14 @@
 > 通道：ntfy.sh/wb-tds-gc-7f3a9c1e ｜ 自动去重归档 ｜ 最新在上
 > 由 GitHub Actions 定时拉取，ntfy 端 12h 过期不影响此处归档。
 
+## 2026-11-20 00:49 · MIL OPEN SNDKUSDT Long
+
+SNDKUSDT Long 开于11-19 23:30 检出延迟79.5分钟 entry=796.029344 qty=25.0 lev=20
+
+## 2026-11-20 00:49 · MIL OPEN METAUSDT Long
+
+METAUSDT Long 开于11-19 23:21 检出延迟88.5分钟 entry=617.58 qty=50.0 lev=20
+
 ## 2026-11-20 00:00 · 🔔 NVDA 已平仓，可以解除保护名单了
 
 NVDA 持仓已归零（held 0.0U），但 gross_protect 仍挂着 NVDAUSDT。
