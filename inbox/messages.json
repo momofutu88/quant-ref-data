@@ -2602,5 +2602,41 @@
   "time": 1795068005,
   "title": "🚨 引擎心跳异常",
   "message": "last_run 时间解析失败（格式变化？）: '2026-11-19T13:59:59+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "8xJ4z9yOpEXm",
+  "time": 1795072203,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-19T15:09:57+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "4FmNmvm6e9OZ",
+  "time": 1795075209,
+  "title": "🛰 红队情报 16:00",
+  "message": "🗓 24 小时 前 Deribit 月度期权到期：11-20 16:00\nmax pain 73-75K，当日 OI 约 10 亿美元，隐含波动 ±7.2%"
+ },
+ {
+  "id": "fmu2uNydYAZT",
+  "time": 1795075611,
+  "title": "🛡️ 仓位被交易所止损单平掉",
+  "message": "检测到 1 笔仓位消失且非引擎主动平仓：BTCUSDT\n\n判定为条件止损单或强平触发，这些标的按流动性分级冷却 120~240 分钟内不再重开。\n源仍在持仓的话，这段时间我们不跟，避免反复挨打。"
+ },
+ {
+  "id": "3B80w16UeI6R",
+  "time": 1795075727,
+  "title": "MIL OPEN LITEUSDT Long",
+  "message": "LITEUSDT Long 开于11-18 22:35 检出延迟1053.0分钟 entry=548.58 qty=40.0 lev=20"
+ },
+ {
+  "id": "OE5PxyktWQGg",
+  "time": 1795075727,
+  "title": "MIL OPEN OPENAIUSDT Long",
+  "message": "OPENAIUSDT Long 开于11-12 06:38 检出延迟10649.9分钟 entry=1248.25777778 qty=9.0 lev=20"
+ },
+ {
+  "id": "3nl2WZEzKr6Q",
+  "time": 1795075803,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-19T16:10:00+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
  }
 ]
