@@ -2644,5 +2644,11 @@
   "time": 1795079403,
   "title": "🚨 引擎心跳异常",
   "message": "last_run 时间解析失败（格式变化？）: '2026-11-19T17:10:00+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "GaI618IT0mNr",
+  "time": 1795083004,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-19T18:09:57+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
  }
 ]
