@@ -2716,5 +2716,23 @@
   "time": 1795110349,
   "title": "MIL OPEN LITEUSDT Long",
   "message": "LITEUSDT Long 开于11-20 01:02 检出延迟42.8分钟 entry=536.91333333 qty=30.0 lev=20"
+ },
+ {
+  "id": "0pJLdtmW3sCD",
+  "time": 1795127327,
+  "title": "⚠️ 读取账户权益失败",
+  "message": "已连续读不到账户权益，本轮跳过风控与下单。\n原因可能是 API 限频、密钥失效或网络异常。\n此期间不会开新仓，也不会平仓。"
+ },
+ {
+  "id": "z25qC15WxkKX",
+  "time": 1795127371,
+  "title": "MIL OPEN LITEUSDT Long",
+  "message": "LITEUSDT Long 开于11-20 01:02 检出延迟326.5分钟 entry=534.83 qty=30.0 lev=20"
+ },
+ {
+  "id": "Z5Sbf2SW2u4u",
+  "time": 1795129206,
+  "title": "🛰 红队情报 07:00",
+  "message": "💸 NVDAUSDT 资金费率异常 0.033%（年化约 36%），持仓成本要盯"
  }
 ]
