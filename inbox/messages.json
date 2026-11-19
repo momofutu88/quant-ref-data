@@ -2710,5 +2710,11 @@
   "time": 1795106978,
   "title": "MIL OPEN METAUSDT Long",
   "message": "METAUSDT Long 开于11-19 23:21 检出延迟88.5分钟 entry=617.58 qty=50.0 lev=20"
+ },
+ {
+  "id": "Wwh2nrH7xZAU",
+  "time": 1795110349,
+  "title": "MIL OPEN LITEUSDT Long",
+  "message": "LITEUSDT Long 开于11-20 01:02 检出延迟42.8分钟 entry=536.91333333 qty=30.0 lev=20"
  }
 ]
