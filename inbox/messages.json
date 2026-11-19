@@ -2584,5 +2584,17 @@
   "time": 1795060203,
   "title": "🚨 引擎心跳异常",
   "message": "last_run 时间解析失败（格式变化？）: '2026-11-19T11:49:58+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "osbHyDFURMXe",
+  "time": 1795063451,
+  "title": "MIL OPEN ANTUSDT Long",
+  "message": "ANTUSDT Long 开于11-17 17:36 检出延迟2587.6分钟 entry=95.48 qty=170.51 lev=20"
+ },
+ {
+  "id": "Xs2xxUbqX1YL",
+  "time": 1795064404,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-19T12:59:59+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
  }
 ]
