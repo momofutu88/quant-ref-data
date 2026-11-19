@@ -2656,5 +2656,23 @@
   "time": 1795087204,
   "title": "🚨 引擎心跳异常",
   "message": "last_run 时间解析失败（格式变化？）: '2026-11-19T19:19:59+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "LLm7rIu0TcBd",
+  "time": 1795089875,
+  "title": "⚠️ 读取账户权益失败",
+  "message": "已连续读不到账户权益，本轮跳过风控与下单。\n原因可能是 API 限频、密钥失效或网络异常。\n此期间不会开新仓，也不会平仓。"
+ },
+ {
+  "id": "Bx5YKpefwMl5",
+  "time": 1795091403,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-19T20:29:58+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "KtOiXTLQwEtx",
+  "time": 1795092118,
+  "title": "⚠️ 账户持仓已空",
+  "message": "连续 3 轮接口返回空仓（非抖动），已清零引擎记账。\n若为 30% 止损或人工平仓属正常；若都不是请立即检查。"
  }
 ]
