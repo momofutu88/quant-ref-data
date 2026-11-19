@@ -2698,5 +2698,17 @@
   "time": 1795104003,
   "title": "🔔 NVDA 已平仓，可以解除保护名单了",
   "message": "NVDA 持仓已归零（held 0.0U），但 gross_protect 仍挂着 NVDAUSDT。\n按 11-15 22:33 的指令，现在可以改成雨露均沾：\n  ① 清空 gross_protect（减仓按名义等比分摊，不再让单笔承担双倍）\n  ② 与倍率参数一起改，避免两次重启\n改完减仓时三笔各减同一比例，不会再出现「一笔砍 78%」的情况。"
+ },
+ {
+  "id": "RafWc6X7FSxZ",
+  "time": 1795106978,
+  "title": "MIL OPEN SNDKUSDT Long",
+  "message": "SNDKUSDT Long 开于11-19 23:30 检出延迟79.5分钟 entry=796.029344 qty=25.0 lev=20"
+ },
+ {
+  "id": "e3L3zoDxrOt7",
+  "time": 1795106978,
+  "title": "MIL OPEN METAUSDT Long",
+  "message": "METAUSDT Long 开于11-19 23:21 检出延迟88.5分钟 entry=617.58 qty=50.0 lev=20"
  }
 ]
