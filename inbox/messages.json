@@ -2686,5 +2686,17 @@
   "time": 1795098604,
   "title": "🚨 引擎心跳异常",
   "message": "last_run 时间解析失败（格式变化？）: '2026-11-19T22:29:58+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "8gBRnzDEtVFb",
+  "time": 1795102803,
+  "title": "🚨 引擎心跳异常",
+  "message": "last_run 时间解析失败（格式变化？）: '2026-11-19T23:39:59+08:00' - ValueError\n\n请登录服务器检查：systemctl status tds-engine"
+ },
+ {
+  "id": "1cXVyjqUj1Zd",
+  "time": 1795104003,
+  "title": "🔔 NVDA 已平仓，可以解除保护名单了",
+  "message": "NVDA 持仓已归零（held 0.0U），但 gross_protect 仍挂着 NVDAUSDT。\n按 11-15 22:33 的指令，现在可以改成雨露均沾：\n  ① 清空 gross_protect（减仓按名义等比分摊，不再让单笔承担双倍）\n  ② 与倍率参数一起改，避免两次重启\n改完减仓时三笔各减同一比例，不会再出现「一笔砍 78%」的情况。"
  }
 ]
