@@ -3,6 +3,11 @@
 > 通道：ntfy.sh/wb-tds-gc-7f3a9c1e ｜ 自动去重归档 ｜ 最新在上
 > 由 GitHub Actions 定时拉取，ntfy 端 12h 过期不影响此处归档。
 
+## 2026-11-20 14:00 · 🛰 红队情报 14:00
+
+🗓 2 小时 前 Deribit 月度期权到期：11-20 16:00
+max pain 73-75K，当日 OI 约 10 亿美元，隐含波动 ±7.2%
+
 ## 2026-11-20 13:30 · MIL OPEN KOUSDT Long
 
 KOUSDT Long 开于11-19 22:39 检出延迟891.2分钟 entry=95.09 qty=100.0 lev=5
