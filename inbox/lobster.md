@@ -3,6 +3,10 @@
 > 通道：ntfy.sh/wb-tds-gc-7f3a9c1e ｜ 自动去重归档 ｜ 最新在上
 > 由 GitHub Actions 定时拉取，ntfy 端 12h 过期不影响此处归档。
 
+## 2026-11-20 19:02 · MIL OPEN METAUSDT Long
+
+METAUSDT Long 开于11-19 23:21 检出延迟1181.9分钟 entry=602.07863636 qty=190.0 lev=15
+
 ## 2026-11-20 14:00 · 🛰 红队情报 14:00
 
 🗓 2 小时 前 Deribit 月度期权到期：11-20 16:00
