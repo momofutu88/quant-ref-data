@@ -2764,5 +2764,11 @@
   "time": 1795152616,
   "title": "MIL OPEN KOUSDT Long",
   "message": "KOUSDT Long 开于11-19 22:39 检出延迟891.2分钟 entry=95.09 qty=100.0 lev=5"
+ },
+ {
+  "id": "34j8Ixuqls5v",
+  "time": 1795154407,
+  "title": "🛰 红队情报 14:00",
+  "message": "🗓 2 小时 前 Deribit 月度期权到期：11-20 16:00\nmax pain 73-75K，当日 OI 约 10 亿美元，隐含波动 ±7.2%"
  }
 ]
