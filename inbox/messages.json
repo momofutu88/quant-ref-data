@@ -2770,5 +2770,11 @@
   "time": 1795154407,
   "title": "🛰 红队情报 14:00",
   "message": "🗓 2 小时 前 Deribit 月度期权到期：11-20 16:00\nmax pain 73-75K，当日 OI 约 10 亿美元，隐含波动 ±7.2%"
+ },
+ {
+  "id": "zFhDR2Pk7BtV",
+  "time": 1795172579,
+  "title": "MIL OPEN METAUSDT Long",
+  "message": "METAUSDT Long 开于11-19 23:21 检出延迟1181.9分钟 entry=602.07863636 qty=190.0 lev=15"
  }
 ]
