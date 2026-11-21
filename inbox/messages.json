@@ -2974,5 +2974,11 @@
   "time": 1795235405,
   "title": "🛰 红队情报 12:30",
   "message": "💸 NVDAUSDT 资金费率异常 -0.070%（年化约 76%），持仓成本要盯"
+ },
+ {
+  "id": "YXbbus9wLZ3M",
+  "time": 1795240809,
+  "title": "深亏区哨兵",
+  "message": "哨兵异常: HTTP Error 400: Bad Request"
  }
 ]
