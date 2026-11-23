@@ -3448,5 +3448,17 @@
   "time": 1795433890,
   "title": "MIL OPEN GOOGLUSDT Long",
   "message": "GOOGLUSDT Long 开于11-19 23:34 检出延迟5523.3分钟 entry=278.15789474 qty=190.0 lev=25"
+ },
+ {
+  "id": "eJ2eQFJVcvXd",
+  "time": 1795435323,
+  "title": "深亏区哨兵",
+  "message": "🟢 [SOXLUSDT] 浮亏回落至 7.6%，脱离深亏区"
+ },
+ {
+  "id": "gX2JtHpu6J95",
+  "time": 1795437199,
+  "title": "⏳ 陈旧仓位不追",
+  "message": "等风来赢 的 SNDKUSDT 开仓已 12 小时（>12h），多为部分止盈后的尾仓，按纪律不追单，仅监控。"
  }
 ]
