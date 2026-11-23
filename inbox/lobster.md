@@ -3,6 +3,14 @@
 > 通道：ntfy.sh/wb-tds-gc-7f3a9c1e ｜ 自动去重归档 ｜ 最新在上
 > 由 GitHub Actions 定时拉取，ntfy 端 12h 过期不影响此处归档。
 
+## 2026-11-23 19:38 · MIL OPEN GOOGLUSDT Long
+
+GOOGLUSDT Long 开于11-19 23:34 检出延迟5523.3分钟 entry=278.15789474 qty=190.0 lev=25
+
+## 2026-11-23 19:30 · 🛰 红队情报 19:30
+
+🔪 SOXLUSDT 距 12% 第一刀仅 3.98 个百分点（现反向 8.02%）
+
 ## 2026-11-23 17:37 · MIL OPEN DELLUSDT Long
 
 DELLUSDT Long 开于11-20 23:45 检出延迟3951.8分钟 entry=283.24666667 qty=15.0 lev=20
