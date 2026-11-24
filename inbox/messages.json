@@ -3790,5 +3790,35 @@
   "time": 1795524304,
   "title": "🦅 熬鹰动态 20:45",
   "message": "🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）"
+ },
+ {
+  "id": "tpoiwNpnLWgo",
+  "time": 1795525204,
+  "title": "🚨 检测到 2 笔漏跟（捕获率 0%）",
+  "message": "最近 12 小时源开仓 2 笔，我们真漏 2 笔：\n青云执策 SKHYNIXUSDT 11-24 10:02\n熬鹰资本 SKHYNIXUSDT 11-24 10:02\n\n这些单既没有开仓记录、也没有跳过记录，说明跟单链路断裂。\n详见 data/capture_report.md"
+ },
+ {
+  "id": "3ZusQO59WZgC",
+  "time": 1795528809,
+  "title": "深亏区哨兵",
+  "message": "哨兵异常: HTTP Error 400: Bad Request"
+ },
+ {
+  "id": "ePLDqcuSLAWW",
+  "time": 1795528814,
+  "title": "🛰 红队情报 22:00",
+  "message": "⚡ BTCUSDT 24h -6.08%（阈值 ±5%），现价 59970.27195652"
+ },
+ {
+  "id": "du7ptPijD7X4",
+  "time": 1795529004,
+  "title": "⏳ 陈旧仓位不追",
+  "message": "等风来赢 的 SKHYNIXUSDT 开仓已 12 小时（>12h），多为部分止盈后的尾仓，按纪律不追单，仅监控。"
+ },
+ {
+  "id": "sat64rd77h8E",
+  "time": 1795529709,
+  "title": "🛰 红队情报 22:15",
+  "message": "🔪 SKHYUSDT 距 12% 第一刀仅 3.92 个百分点（现反向 8.08%）"
  }
 ]
