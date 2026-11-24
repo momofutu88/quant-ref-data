@@ -3748,5 +3748,47 @@
   "time": 1795517260,
   "title": "撞车让位: 平掉 K 的 TESTUSDT",
   "message": "等风新开 TESTUSDT，K 旧仓 0.0000 张 已在 None 平掉让路（撤阶梯单 + 清账本 + 永久摘除）。引擎按等风信号立即建仓，不再干等。"
+ },
+ {
+  "id": "l03TFPZVDAMq",
+  "time": 1795521603,
+  "title": "TDS引擎在线",
+  "message": "权益=575.22U | 本轮信号=1 | 日志1s前更新 | halted=False"
+ },
+ {
+  "id": "tdjoeyb0wcth",
+  "time": 1795521604,
+  "title": "【隐藏源活仓】青云执策 SKHYNIXUSDT",
+  "message": "· 源：青云执策\n· 标的：SKHYNIXUSDT Short\n· 开仓 11-24 10:02（公开接口现可见）\n· 引擎若未跟进请立即人工处理"
+ },
+ {
+  "id": "nIMxV47uCIG9",
+  "time": 1795521617,
+  "title": "🛰 红队情报 20:00",
+  "message": "🔪 SKHYUSDT 距 12% 第一刀仅 3.65 个百分点（现反向 8.35%）"
+ },
+ {
+  "id": "VtYYCw8myCTq",
+  "time": 1795522504,
+  "title": "🦅 熬鹰动态 20:15",
+  "message": "🟡 熬鹰系减仓(影子)：SKHYNIXUSDT 名义 3241U -> 645U（-80%）\n\n📊 熬鹰系总敞口突变：3241U -> 645U（-80%）"
+ },
+ {
+  "id": "CdrvBfMoPOyQ",
+  "time": 1795523404,
+  "title": "🦅 熬鹰动态 20:30",
+  "message": "✅ 熬鹰本尊平仓确认：SKHYNIXUSDT Short 盈亏 +40433U（11-24 10:02 开 11-24 20:14 平）"
+ },
+ {
+  "id": "mp142f7FJNio",
+  "time": 1795523405,
+  "title": "⚠️ 单笔滑点偏大",
+  "message": "SKHYNIXUSDT（等风来赢）我方入场 841.4400，源 871.6112，差 +3.46%，名义 757U 折 +26.2U。\n若多笔持续如此，说明我们在队尾吃不到好价。"
+ },
+ {
+  "id": "s3J29nfbLG5z",
+  "time": 1795524304,
+  "title": "🦅 熬鹰动态 20:45",
+  "message": "🚪 熬鹰系(经青云影子)：全部持仓清空（连续2次确认）"
  }
 ]
