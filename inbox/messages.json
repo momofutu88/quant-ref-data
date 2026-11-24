@@ -3658,5 +3658,35 @@
   "time": 1795482911,
   "title": "🛰 红队情报 09:15",
   "message": "⚡ SKHYNIXUSDT 24h 12.12%（阈值 ±10%），现价 891.82756168"
+ },
+ {
+  "id": "vvht9uwIuCMn",
+  "time": 1795486503,
+  "title": "🦅 熬鹰动态 10:15",
+  "message": "🟢 熬鹰系新开仓(影子)：SKHYNIXUSDT 空 名义3851U\n\n📊 熬鹰系总敞口突变：348U -> 3851U（1005%）"
+ },
+ {
+  "id": "sJVC60V2hXog",
+  "time": 1795486511,
+  "title": "🛰 红队情报 10:15",
+  "message": "⚡ SKHYNIXUSDT 24h 10.05%（阈值 ±10%），现价 876.84237413"
+ },
+ {
+  "id": "xhNCEvqnwPE5",
+  "time": 1795488308,
+  "title": "🛰 红队情报 10:45",
+  "message": "🔪 MUUSDT 距 12% 第一刀仅 -1.24 个百分点（现反向 13.24%）\n\n🔪 SKHYUSDT 距 12% 第一刀仅 -1.51 个百分点（现反向 13.51%）\n\n🔪 SKHYNIXUSDT 距 12% 第一刀仅 -0.50 个百分点（现反向 12.50%）\n\n🔪 DRAMUSDT 距 12% 第一刀仅 -0.53 个百分点（现反向 12.53%）"
+ },
+ {
+  "id": "BBMo9YGo8n8T",
+  "time": 1795489215,
+  "title": "深亏区哨兵",
+  "message": "哨兵异常: HTTP Error 400: Bad Request"
+ },
+ {
+  "id": "Jnk48dNzcQZT",
+  "time": 1795489219,
+  "title": "🛰 红队情报 11:00",
+  "message": "💸 SKHYNIXUSDT 资金费率异常 -0.033%（年化约 36%），持仓成本要盯"
  }
 ]
