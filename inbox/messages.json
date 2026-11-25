@@ -4384,5 +4384,23 @@
   "time": 1795617010,
   "title": "🛰 红队情报 22:30",
   "message": "⚡ NVDAUSDT 24h -9.20%（阈值 ±8%），现价 144.52975093"
+ },
+ {
+  "id": "cV5ztyf0GsJg",
+  "time": 1795617909,
+  "title": "🛰 红队情报 22:45",
+  "message": "⚡ BTCUSDT 24h -5.20%（阈值 ±5%），现价 57331.25782609\n\n🔪 NVDAUSDT 距 12% 第一刀仅 2.76 个百分点（现反向 9.24%）"
+ },
+ {
+  "id": "WJlWoBXmHYXM",
+  "time": 1795619708,
+  "title": "🛰 红队情报 23:15",
+  "message": "⚡ DRAMUSDT 24h -10.32%（阈值 ±10%），现价 32.84938668"
+ },
+ {
+  "id": "MCwKidkBIepB",
+  "time": 1795621170,
+  "title": "MIL OPEN METAUSDT Long",
+  "message": "METAUSDT Long 开于11-25 11:00 检出延迟759.2分钟 entry=578.45407407 qty=105.0 lev=15"
  }
 ]
